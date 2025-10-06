@@ -3,7 +3,8 @@ description: A collection of lab resources for the Center for Comparative Genomi
 logo: /assets/CCG logo_color_horizontal.png
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: "https://CAS-CCG.github.io"
+baseurl: ""
 
 aux_links:
   CAS Intranet: https://sites.google.com/calacademy.org/intranet/
