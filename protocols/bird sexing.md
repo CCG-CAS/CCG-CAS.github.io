@@ -24,24 +24,26 @@ Note: Romney Edwards-Francis recommends concentrated (>100 ng/µL) DNA extracted
 - 8–13 µL PCR grade water (total volume 20 µL)
 - Protocol
 
-1) Prepare PCR Master Mix in a 1.5 mL tube as follows:
-2) Multiply reagents by number of samples n, + 1 negative control,  + ~10 % safety margin
-3) Add proportional amount 5x HOT Firepol master mix
-4) Add proportional amount CHD1F/CHD1R primer mix
-5) Add 6 µL PCR Master Mix to PCR tubes.
-6) Add 1-6 µL DNA template, or molecular-grade water for negative control, to PCR tubes.
-7) Add sufficient molecular-grade water to bring reaction volume to 20 µL.
-8) Vortex and spin down. Transfer to thermal cycler for PCR.
+```markdown
+1. Prepare PCR Master Mix in a 1.5 mL tube as follows:
+1. Multiply reagents by number of samples n, + 1 negative control,  + ~10 % safety margin
+3. Add proportional amount 5x HOT Firepol master mix
+4. Add proportional amount CHD1F/CHD1R primer mix
+5. Add 6 µL PCR Master Mix to PCR tubes.
+6. Add 1-6 µL DNA template, or molecular-grade water for negative control, to PCR tubes.
+7. Add sufficient molecular-grade water to bring reaction volume to 20 µL.
+8. Vortex and spin down. Transfer to thermal cycler for PCR.
+```
 
 ## PCR program for CHD1F/CHD1R primers
-* 94°C for 15mins (If using 5x HOT Firepol. Only 4mins if using 5x Firepol master mix)
-* 8 cycles:	
-* 94 °C, 30 sec
-* 57 °C-50°C, 45 sec (touchdown: reduce 1 °C/cycle for 8 cycles)
-* 72 °C, 45 sec
-* 27 cycles:
-* 94 °C, 30 sec
-* 50 °C, 45 sec
-* 72 °C, 45 sec
-* 72 °C, 5 min
-+ 12°C, ∞
+- 94°C for 15mins (If using 5x HOT Firepol. Only 4mins if using 5x Firepol master mix)
+- 8 cycles:	
+- 94 °C, 30 sec
+- 57 °C-50°C, 45 sec (touchdown: reduce 1 °C/cycle for 8 cycles)
+- 72 °C, 45 sec
+- 27 cycles:
+- 94 °C, 30 sec
+- 50 °C, 45 sec
+- 72 °C, 45 sec
+- 72 °C, 5 min
+- 12°C, ∞
