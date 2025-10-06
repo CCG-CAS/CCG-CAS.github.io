@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Archive
+title: Bird sexing
 nav_order: 3
-parent: Knowledge
+parent: Protocols
 ---
 
 # Seabird Sexing PCR Protocol using DNeasy Qiagen DNA extraction kits
