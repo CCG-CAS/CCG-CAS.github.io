@@ -41,6 +41,7 @@ Note: Romney Edwards-Francis recommends concentrated (>100 ng/µL) DNA extracted
 8. Vortex and spin down. Transfer to thermal cycler for PCR.
 
 ## PCR program for CHD1F/CHD1R primers
+### Ramp Up:
 - 94°C for 15mins (If using 5x HOT Firepol. Only 4mins if using 5x Firepol master mix)
 ### 8 cycles:	
 - 94 °C, 30 sec
