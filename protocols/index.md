@@ -1,7 +1,6 @@
 ---
 title: Protocols
-nav_order: 4
-has_children: True
+nav_order: 3
 ---
 # Protocols
 
