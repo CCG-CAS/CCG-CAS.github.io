@@ -31,10 +31,12 @@ Lower bead:sample ratios select for longer DNA fragments. While this can be usef
 8. Add 200 μL 80% ethanol wash. Incubate 30 sec. at room temperature. Remove and discard wash.
 9. Repeat wash step once for a total of two washes. Remove all visible liquid. If necessary, briefly spin down, return to magnet, and remove remaining ethanol with a small (e.g., p10) pipette.
 10. Air-dry beads for 1-2 minutes at room temperature, on the magnet with lid open.
+
     {: .caution }
     Do not over-dry the beads! Beads are sufficiently dry when pellets are dark and glossy, but all visible liquid has evaporated. If pellets change to light brown or start to crack, they are too dry.
 
 11. Remove sample tubes from magnet and resuspend beads in molecular-grade water or TE buffer. Pipette thoroughly to mix, or vortex and spin. 
+
     {: .note }
     Some buffer is often lost in the bead pellet during elution and transfer. Consider eluting in a slightly larger volume (appx. +2 µL) than what will be transferred and retained in Step 13 (and/or measuring the final volume by pipetting). Example: elute in 12 µL of buffer, but transfer only 10 µL.
 
