@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Extractions
+title: Extraction
 nav_order: 1
 parent: Protocols
 has_children: true
