@@ -9,7 +9,7 @@ parent: Extractions
 As described in Gould et al. 2021; modified from Hykin et al. 2015 and Ruane & Austin, 2017
 
 {: .warning } 
-While this protocol does not include any formalin or formaldehyde, seek appropriate training from your department or the CCG Lab Manager before working with or handling formalin-fixed tissues. Formalin/formaldehyde is a carcinogen, mutagen and corrosive chemical that requires extra hazardous materials training per Cal Academy policy.
+While this protocol does not include any formalin or formaldehyde, seek appropriate training from your department or the CCG Lab Manager before working with or handling formalin-fixed tissues. Formalin/formaldehyde is a carcinogen, mutagen and toxic chemical that requires extra hazardous materials training per Cal Academy policy.
 
 ### Gather the following materials:
 - GTE Buffer
