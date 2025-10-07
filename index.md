@@ -4,11 +4,11 @@ nav_order: 1
 layout: home
 ---
 
-Welcome to the Center for Comparative Genomics at the California Academy of Sciences!
+Welcome to the Official Unofficial resource hub for the Center for Comparative Genomics (CCG) at the California Academy of Sciences!
+
+Here you can find many of our resources such as lab protocols, policies and guidelines, billing information, safety data sheets (SDS).
 
 ----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
