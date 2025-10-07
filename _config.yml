@@ -12,11 +12,11 @@ aux_links:
 
 # External navigation links
 nav_external_links:
-  - title: California Academy of Sciences
+  - title: Cal Academy Homepage
     url: https://www.calacademy.org/
-    hide_icon: false # set to true to hide the external link icon - defaults to false
+    hide_icon: true # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
-  - title: Center for Comparative Genomics
+  - title: CCG Official Website
     url: https://www.calacademy.org/scientists/center-for-comparative-genomics
     hide_icon: true # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
