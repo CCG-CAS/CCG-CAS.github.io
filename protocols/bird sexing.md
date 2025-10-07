@@ -23,7 +23,7 @@ Note: Romney Edwards-Francis recommends concentrated (>100 ng/µL) DNA extracted
 - 1–6 µL DNA template (try for at least ~1.5 ng)
 - 8–13 µL PCR grade water (total volume 20 µL)
 
-## Protocol
+### Protocol
 1. Prepare PCR Master Mix in a 1.5 mL tube as follows:
 
 2. Multiply reagents by number of samples n, + 1 negative control,  + ~10 % safety margin
