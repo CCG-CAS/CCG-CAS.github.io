@@ -59,8 +59,8 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 <img src="/assets/GHS-flammable.png" alt="GHS Flammable">
 Reminder: All guanidine hydrochloride/EtOH waste must be disposed of in its designated waste bottle. This includes all Buffer AL, EtOH, Buffer AW1, and Buffer AW2 waste.
 
-<img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-oxidant.png?raw=true'
-    alt="GHS Oxidant" 
+<img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-oxidizing.png?raw=true'
+    alt="GHS Oxidizing" 
     width='48'>
 <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-flammable.png?raw=true'
     alt='GHS Flammable'
