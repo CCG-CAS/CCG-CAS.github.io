@@ -33,7 +33,9 @@ Lower bead:sample ratios select for longer DNA fragments. While this can be usef
 10. Air-dry beads for 1-2 minutes at room temperature, on the magnet with lid open. 
 {: .caution }
 Do not over-dry the beads! Beads are sufficiently dry when pellets are dark and glossy, but all visible liquid has evaporated. If pellets change to light brown or start to crack, they are too dry.
+
 12. Remove sample tubes from magnet and resuspend beads in molecular-grade water or TE buffer. Pipette thoroughly to mix, or vortex and spin. 
+
 {: .note }
 Some buffer is often lost in the bead pellet during elution and transfer. Consider eluting in a slightly larger volume (appx. +2 µL) than what will be transferred and retained in Step 13 (and/or measuring the final volume by pipetting). Example: elute in 12 µL of buffer, but transfer only 10 µL.
 14. Incubate at least 2 minutes at room temperature (off magnet) to allow DNA to elute from beads.
