@@ -21,6 +21,23 @@ nav_external_links:
     hide_icon: true # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
 
+# warnings, cautions, and notes settings
+callouts_level: quiet # or loud
+callouts:
+  warning:
+    title: WARNING!
+    color: red
+  caution:
+    title: Caution
+    color: yellow
+  note:
+    title: Note
+    color: blue
+  greentip:
+    title: Green Tip!
+    color: green
+
+
 # Footer "Edit this page on GitHub" link text
 back_to_top: true
 back_to_top_text: "Back to top"
