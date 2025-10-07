@@ -1,7 +1,8 @@
 ---
 layout: default
 title: DNA Extraction from formalin-fixed tissues
-parent: Protocols
+ancestor: Protocols
+parent: Extractions
 ---
 
 # DNA Extraction from Formalin-Fixed Tissues
