@@ -1,7 +1,8 @@
 ---
 layout: default
 title: SPRI bead-based DNA cleanup
-parent: Protocols
+ancestor: Protocols
+parent: Cleanups
 ---
 
 # SPRI Bead-based DNA Cleanup
