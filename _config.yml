@@ -32,7 +32,7 @@ callouts:
     color: yellow
   note:
     title: Note
-    color: grey
+    color: blue
   greentip:
     title: Green Tip!
     color: green
