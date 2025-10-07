@@ -17,7 +17,7 @@ WARNINGS (or HAZARDS) are marked in red. These contain information about hazards
 CAUTIONS are highlighted in yellow. These contain information pertaining to especially delicate or critical steps in a protocol, which if ignored may cause damage to equipment or loss of data. Note that many protocol steps include highlighted words for ease of reading; these are not cautions unless specifically marked.
 
 {: .note }
-Notes are highlighted in grey. These contain supplementary information, and are typically intended to improve experimental yield, assist in workflow optimization, or simply provide additional insight into how a protocol works.    
+Notes are highlighted in blue. These contain supplementary information, and are typically intended to improve experimental yield, assist in workflow optimization, or simply provide additional insight into how a protocol works.    
 
 {: .greentip }
 Green (and Cost-Saving) Tips are marked in green, and include suggestions about ways to increase resource efficiency by minimizing plastic waste (e.g., by adjusting workflows to allow reuse of pipette tips) or energy usage (e.g., by optimizing incubation/thermocycler times).
