@@ -10,7 +10,21 @@ aux_links:
   CAS Intranet: https://sites.google.com/calacademy.org/intranet/
   GH Pages Repository: https://github.com/CCG-CAS/gh-pages
 
+# External navigation links
+nav_external_links:
+  - title: California Academy of Sciences
+    url: https://www.calacademy.org/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+  - title: Center for Comparative Genomics
+    url: https://www.calacademy.org/scientists/center-for-comparative-genomics
+    hide_icon: true # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+
 # Footer "Edit this page on GitHub" link text
+back_to_top: true
+back_to_top_text: "Back to top"
+
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/CCG-CAS/gh-pages" # the github URL for your repo
