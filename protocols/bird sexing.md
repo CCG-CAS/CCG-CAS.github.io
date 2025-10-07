@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Bird sexing
-nav_order: 3
 parent: Protocols
 ---
 
