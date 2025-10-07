@@ -13,7 +13,8 @@ While this protocol does not include any formalin or formaldehyde, seek appropri
 
 ### Gather the following materials:
 - GTE Buffer
-- 100% molecular-grade Ethanol
+- 100% ethanol (EtOH), molecular-grade
+- 70% ethanol (EtOH), molecular-grade
 - Nuclease-free water
 - Qiagen DNeasy Blood & Tissue Kit
 
