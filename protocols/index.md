@@ -9,6 +9,7 @@ has_children: true
 These are some of the most commonly used teaching protocols used by CCG researchers. Many of these are modified from manufacturer protocols, but adapted to reflect the CCG's layout and equipment.
 
 ### Warnings, Cautions, Notes, and Tips
+
 {: .warning }
 WARNINGS (or HAZARDS) are marked in red. These contain information about hazards such as acutely toxic chemicals, electrical shock risks, etc., that represent a threat to personal safety. Ignoring these may cause injury, illness, or even (in extreme cases) death to the researcher, their labmates, or the environment.
 
