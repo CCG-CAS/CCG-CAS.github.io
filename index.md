@@ -3,7 +3,7 @@ title: Home
 nav_order: 1
 layout: home
 ---
-## CCG Lab Resources
+# CCG Lab Protocols & Resources
 
 
 Welcome to the Official Unofficial resource hub for the Center for Comparative Genomics (CCG) at the California Academy of Sciences! 
