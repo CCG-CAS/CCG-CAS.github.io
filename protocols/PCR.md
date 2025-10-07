@@ -2,6 +2,7 @@
 layout: default
 title: PCR
 nav_order: 3
+parent: Protocols
 has_children: true
 ---
 # PCR
