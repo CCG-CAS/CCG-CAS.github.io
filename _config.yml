@@ -26,7 +26,7 @@ callouts_level: quiet # or loud
 callouts:
   warning:
     title: WARNING!
-    color: red
+    color: orange
   caution:
     title: Caution!
     color: yellow
