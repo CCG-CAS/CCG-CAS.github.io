@@ -10,7 +10,7 @@ The CCG is the Academy’s core genomics research center. We employ the latest m
 
 Here you can find many of our resources such as lab protocols, policies and guidelines.
 
-To find out more about ongoing projects, visit the [CCG Projects Page] (https://www.calacademy.org/scientists/ccg/ccg-projects). 
+To find out more about ongoing projects, visit the [CCG Projects Page](https://www.calacademy.org/scientists/ccg/ccg-projects). 
 
 ----
 
