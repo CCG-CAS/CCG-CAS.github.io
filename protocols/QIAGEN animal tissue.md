@@ -55,6 +55,6 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 21. Discard your spin columns. Cap your tubes (with labels) and proceed to “Checking extracted DNA Quantity Using NanoDrop 2000C” (pg. 19).
 
 {: .caution }
-![GHS pictogram: IRRITANT](/assets/GHS-irritant.png)
-![GHS pictogram: FLAMMABLE](/assets/GHS-flammable.png)
+![GHS pictogram: IRRITANT](assets/GHS-irritant.png)
+![GHS pictogram: FLAMMABLE](assets/GHS-flammable.png)
 Reminder: All guanidine hydrochloride/EtOH waste must be disposed of in its designated waste bottle. This includes all Buffer AL, EtOH, Buffer AW1, and Buffer AW2 waste.
