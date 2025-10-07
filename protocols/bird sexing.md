@@ -26,21 +26,16 @@ Note: Romney Edwards-Francis recommends concentrated (>100 ng/µL) DNA extracted
 - 8–13 µL PCR grade water (total volume 20 µL)
 
 ### Protocol
-1. Prepare PCR Master Mix in a 1.5 mL tube as follows:
 
-2. Multiply reagents by number of samples n, + 1 negative control,  + ~10 % safety margin
+Prepare PCR Master Mix in a 1.5 mL tube as follows:
 
-3. Add proportional amount 5x HOT Firepol master mix
-
-4. Add proportional amount CHD1F/CHD1R primer mix
-
-5. Add 6 µL PCR Master Mix to PCR tubes.
-
-6. Add 1-6 µL DNA template, or molecular-grade water for negative control, to PCR tubes.
-
-7. Add sufficient molecular-grade water to bring reaction volume to 20 µL.
-
-8. Vortex and spin down. Transfer to thermal cycler for PCR.
+1. Multiply reagents by number of samples n, + 1 negative control,  + ~10 % safety margin
+2. Add proportional amount 5x HOT Firepol master mix
+3. Add proportional amount CHD1F/CHD1R primer mix
+4. Add 6 µL PCR Master Mix to PCR tubes.
+5. Add 1-6 µL DNA template, or molecular-grade water for negative control, to PCR tubes.
+6. Add sufficient molecular-grade water to bring reaction volume to 20 µL.
+7. Vortex and spin down. Transfer to thermal cycler for PCR.
 
 ### PCR program for CHD1F/CHD1R primers
 
