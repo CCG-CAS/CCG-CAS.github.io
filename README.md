@@ -1,3 +1,6 @@
+# Formatting notes, etc
+To add a callout (warning, caution, notes, green tips, etc) to a numbered list, use a two-tab (four-space) indent.
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
