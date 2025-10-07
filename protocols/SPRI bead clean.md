@@ -44,3 +44,6 @@ Lower bead:sample ratios select for longer DNA fragments. While this can be usef
 12. Incubate at least 2 minutes at room temperature (off magnet) to allow DNA to elute from beads.
 13. Return samples to magnet and incubate at room temperature until solution is clear (~5 min).
 14. Transfer samples to new tubes and discard used tubes with beads. Samples can be stored at -20 °C.
+
+{: .warning }
+Properly dispose of ethanol in the designated ethanol waste containers. Ethanol is a flammable chemical and cannot be disposed of in the trash or down the sink. 
