@@ -1,4 +1,11 @@
-# QIAGEN DNeasy SPIN COLUMN PROTOCOL FOR ANIMAL TISSUE
+---
+layout: default
+title: QIAGEN DNeasy spin-column protocol for animal tissue
+ancestor: Protocols
+parent: Extraction
+---
+
+# QIAGEN DNeasy spin-column protocol for animal tissue
 
 {: .note }
 If you are extracting DNA from small samples that are stored in EtOH, it is best to dry your sample of any EtOH before carrying out the extraction. You can do this by placing open tubes in the incubator; check on them every (approximately) 5 minutes.
