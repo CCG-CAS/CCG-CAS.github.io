@@ -15,11 +15,11 @@ nav_external_links:
   - title: Cal Academy Homepage
     url: https://www.calacademy.org/
     hide_icon: true # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
   - title: CCG Academy Website
     url: https://www.calacademy.org/scientists/ccg/ccg-lab-page
     hide_icon: true # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
 
 # warnings, cautions, and notes settings
 callouts_level: quiet # or loud
