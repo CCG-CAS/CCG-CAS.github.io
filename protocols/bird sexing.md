@@ -6,7 +6,7 @@ parent: Protocols
 ---
 
 # Seabird Sexing PCR Protocol using DNeasy Qiagen DNA extraction kits
-Adapted for CCG use from Bento labs’ CHD1F/CHD1R Bird Sexing PCR Protocol
+Adapted for CCG use from Bento labs’ CHD1F/CHD1R Bird Sexing PCR Protocol<br>
 Note: Romney Edwards-Francis recommends concentrated (>100 ng/µL) DNA extracted from feathers using the HotSHOT protocol. The CCG has successfully run this protocol using the QIAGEN Blood & Tissue kit on a few drops of blood on a KimWipe, with pre-PCR concentrations of 0.3–1.2 ng/µL.
 
 ### Gather the following materials:
