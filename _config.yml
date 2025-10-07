@@ -28,11 +28,11 @@ callouts:
     title: WARNING!
     color: red
   caution:
-    title: Caution
+    title: Caution!
     color: yellow
   note:
     title: Note
-    color: blue
+    color: grey-lt-300
   greentip:
     title: Green Tip!
     color: green
