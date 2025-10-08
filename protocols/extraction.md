@@ -16,7 +16,7 @@ To lyse open cells, to lyse open the nucleus and release the DNA, to prevent nat
 There are many types of extractions. We have included two common filter-based methods (one for animal tissues and one for plant tissues) in the following pages. For recommendations of other methods of extraction, such as precipitation based extraction, bead based extraction, High Molecular Weight (HMW) extraction, or extraction for low-input material, please reach out to Athena or other CCG staff. 
 
 {: .warning }
-> <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/biohazard.png?raw=true'
+> <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/ISO-biohazard.png?raw=true'
     alt="Biohazard"
     width='48'
     align='left'>
