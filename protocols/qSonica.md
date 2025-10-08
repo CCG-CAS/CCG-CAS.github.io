@@ -47,10 +47,10 @@ Sonication time varies by DNA size, genome size, tube volume, and sample buffer.
     - Flank your sonicated samples on both sides of the row with a ladder (instead of just using one). This will make it easier to assess the samples in the middle of the row.
 
     {: .note }
-    With most library types, an ideal sonication result is to have the brightest part of the smear overlap with the 300-500 bp range and to have only trace amounts of material greater than 1,000 bp. Example below.
+    With most library types, an ideal sonication result is to have the brightest part of the smear overlap with the 300-500 bp range and to have only trace amounts of material greater than 1,000 bp (see example below).
     <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/qsonica gel.png?raw=true'
       alt="qSonica gel"
-      width='500'>
+      width='600'>
 20. Once general conditions are worked out for a project, continue with the next set of tubes to sonicate. When you are done for the day, turn off the chiller pump and use the “0” button on the power supply to turn it off. Consult with the lab manager about when and how to empty the water from the bath.
 21. Optional: assess all project samples on a gel. (note: only those starting with 500 ng+ will be easily visible.) Add extra sonication time to any that are outliers.
 22. Completed samples may be stored at -20°C while sonication for a project is on-going.
