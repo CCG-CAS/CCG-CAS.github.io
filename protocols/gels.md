@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Gel Electrophoresis
-parent: Protocols
+parent: Quantification
+ancestor: Protocols
 ---
 
 # Gel Electrophoresis
