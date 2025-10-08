@@ -27,6 +27,7 @@ Enzymatic cleanup of PCR products can be used for any PCR product yielding only 
     {: .note }
    Note: Your diluted ExoSAP-IT has a reduced shelf life compared to the undiluted stock. If you will only be using a small amount, dilute half of your stock tube (25 µL enzyme and 100 µL water).
 3. Set up the following reaction on ice:
+
     |                           | Strong band | Faint band |
     |:--------------------------|:------------|:-----------|
     | PCR Product (µL)          | 10          | 14         |
