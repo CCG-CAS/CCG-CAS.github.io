@@ -54,7 +54,7 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 20. Centrifuge 1 min at 6,000 g (8,000 rpm).
 21. Discard your spin columns. Cap your tubes (with labels) and proceed to “Checking extracted DNA Quantity Using NanoDrop 2000C” (pg. 19).
 
-{: .caution }
+{: .warning }
 <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-oxidizing.png?raw=true'
     alt="GHS Oxidizing" 
     width='48'
