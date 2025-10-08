@@ -76,4 +76,4 @@ The fume hood alarm is very sensitive to airflow. Remember to keep the glass win
     alt="Loading dye bands" 
     width='48'
     align='left'>
-> The CCG blue dye contains both the blue and purple bands shown below.<br>
+> The CCG blue dye contains both the blue and purple bands shown below.<br><br>
