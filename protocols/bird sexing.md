@@ -54,7 +54,7 @@ Prepare PCR Master Mix in a 1.5 mL tube as follows:
 - 72 °C, 5 min
 - 12°C, ∞
 
-### Example Gel Image
+### Analyze Your Results on a Gel
 Compare your gel to this example result: You should see either 500bp for ZZ males or two bands at 500bp and 320bp for ZW females.
 
-<img src="[https://github.com/CCG-CAS/gh-pages/blob/main/assets/Bird%20Sexing%20Example%20Gel.JPG]" alt="Image of gel showing one band at 500bp for ZZ males and two bands at 500bp and 320bp for ZW females." width='500'>
+<img src="https://raw.githubusercontent.com/CCG-CAS/gh-pages/refs/heads/main/assets/Bird%20Sexing%20Example%20Gel.JPG" alt="Image of gel showing one band at 500bp for ZZ males and two bands at 500bp and 320bp for ZW females." width='500'>
