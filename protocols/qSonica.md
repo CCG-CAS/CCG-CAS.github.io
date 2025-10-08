@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TapeStation
+title: qSonica
 parent: Quantification
 ancestor: Protocols
 ---
