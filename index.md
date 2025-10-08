@@ -14,7 +14,7 @@ Here you can find many of our resources such as lab protocols, policies, and gui
 
 To find out more about ongoing projects, visit the [CCG Projects Page](https://www.calacademy.org/scientists/ccg/ccg-projects). 
 
-Questions about the CCG? Visit our [Cal Academy website](https://www.calacademy.org/scientists/ccg/ccg-lab-page) to learn more, or contact CCG Staff at [ccg-lab@calacademy.org](ccg-lab@calacademy.org). 
+**Questions about the CCG? Visit our [Cal Academy website](https://www.calacademy.org/scientists/ccg/ccg-lab-page) to learn more, or contact CCG Staff at [ccg-lab@calacademy.org](ccg-lab@calacademy.org).**
 
 ----
 
