@@ -43,7 +43,7 @@ The fume hood alarm is very sensitive to airflow. Remember to keep the glass win
     alt="Electrical hazard" 
     width='48'
     align='left'>
-Be aware that the gel power supplies themselves are a risk to your safety. Even at 100 volts, they can deliver a lethal shock. Always be mindful of this when operating them. Some general guidelines to follow are:
+Gel electrophoresis power supplies pose an electrical hazard. Even at 100 volts, they can deliver a lethal shock. Always be mindful of this when operating them.
     - Never use a gel box or cover that is cracked or has connectors that appear damaged.
     - Never handle the power supply with wet hands while it is plugged in.
     - Load your gel and secure the lid to the box before plugging in your power supply.
