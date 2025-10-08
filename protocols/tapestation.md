@@ -21,10 +21,10 @@ The TapeStation is an automated electrophoresis solution for quality control of 
     {: .note } 
     The requirements are flexible to some degree. Refer to the [orientation slides](https://drive.google.com/drive/folders/1wcy_76QfHGXK6I3UQ0IUnglkVranbxjw) on the CCG lab users drive.
 
-    | Screentape type       | HS D1000 | Genomic DNA |
-    |:----------------------|:---------|:------------|
-    | Sizing range (bp)     | 25–1,000 | 200–60,000  |
-    | Concentration (ng/µL) | 0.01–1   | 10–100      |
+    |                       | HS D1000 ScreenTape | gDNA ScreenTape |
+    |:----------------------|:--------------------|:----------------|
+    | Sizing range (bp)     | 25–1,000            | 200–60,000      |
+    | Concentration (ng/µL) | 0.01–1              | 10–100          |
 
 3. Switch on the computer and the instrument and launch the Agilent TapeStation Controller Software.
 4. FIRST TIME USER: Create your own results file on the TapeStation laptop: Desktop–Tapestation Data–Folder “your group”.
@@ -41,11 +41,11 @@ The TapeStation is an automated electrophoresis solution for quality control of 
 4. Take out the appropriate number of strip tubes and tube caps from your lab’s drawer. **Use only USA Scientific strip tubes that we stock in the lab.**
 5. Vortex and spin down buffer, ladder, and samples.
 
-| Screentape type       | HS D1000          | gDNA ScreenTape |
-|:----------------------|:------------------|:----------------|
-| Sample buffer (µL)    | 2                 | 10              |
-| DNA Ladder (µL)       | 1 (or electronic) | 1 (required)    |
-| Sample (µL)           | 2                 | 1               |
+|                    | HS D1000 ScreenTape | gDNA ScreenTape |
+|:-------------------|:--------------------|:----------------|
+| Sample buffer (µL) | 2                   | 10              |
+| DNA Ladder (µL)    | 1 (or electronic)   | 1 (required)    |
+| Sample (µL)        | 2                   | 1               |
 
 6. Add sample buffer to each well of the strip tube.
 7. If using a ladder, add a DNA ladder to the first tube (A1).
