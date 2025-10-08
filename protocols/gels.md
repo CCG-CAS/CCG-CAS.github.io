@@ -2,7 +2,6 @@
 layout: default
 title: Gel Electrophoresis
 ancestor: Protocols
-parent: Extraction
 ---
 
 # Gel Electrophoresis
