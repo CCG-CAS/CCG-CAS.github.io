@@ -57,7 +57,8 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 {: .caution }
 <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-oxidizing.png?raw=true'
     alt="GHS Oxidizing" 
-    width='48'>
+    width='48'
+    align='left'>
 <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-flammable.png?raw=true'
     alt='GHS Flammable'
     width="48"
