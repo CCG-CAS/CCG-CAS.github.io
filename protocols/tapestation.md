@@ -76,8 +76,3 @@ The TapeStation is an automated electrophoresis solution for quality control of 
 4. Close the Analysis and Controller software.
 5. Turn off the TapeStation from the button on the machine.
 6. Shut down the computer.
-
-
-    <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/nanodrop.jpg?raw=true'
-      alt="Nanodrop curve"
-      width='300'>
