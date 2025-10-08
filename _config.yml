@@ -4,9 +4,6 @@ logo: /assets/CCG logo_color_horizontal.png
 favicon_ico: "/assets/CCG logo_blackonwhiteround.png"
 theme: just-the-docs
 
-url: "https://CAS-CCG.github.io"
-baseurl: ""
-
 # External navigation links
 nav_external_links:
   - title: Cal Academy Homepage
@@ -39,7 +36,7 @@ callouts:
 
 
 # Footer "Edit this page on GitHub" link text
-back_to_top: true
+back_to_top: true 
 back_to_top_text: "Back to top"
 
 gh_edit_link: true # show or hide edit this page link
