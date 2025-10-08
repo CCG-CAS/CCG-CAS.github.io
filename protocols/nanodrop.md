@@ -27,8 +27,8 @@ Although the NanoDrop spectrophotometer will display a concentration value, this
 
     <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/nanodrop.jpg?raw=true'
       alt="Nanodrop curve"
-      width='96'
-      align='left'>
+      width='96'>
+
     A useful website for explanations on interpreting NanoDrop DNA/RNA curves is:
     https://tools.thermofisher.com/content/sfs/brochures/TN52646-E-0215M-NucleicAcid.pdf
 11. Once you have finished reading all of your samples, wipe down the NanoDrop pedestal with a damp Kimwipe to clean it and return the arm of the instrument to the lowered position.
