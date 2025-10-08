@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gel Electrophoresis
+title: NanoDrop
 parent: Quantification
 ancestor: Protocols
 ---
