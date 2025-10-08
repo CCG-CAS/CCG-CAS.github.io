@@ -71,7 +71,7 @@ Be aware that the gel power supplies themselves are a risk to your safety. Even 
     Do not store PCR products in the refrigerator/freezer that is in the Gel Room. This unit is for storage of reagents and chemicals only.
 
 {: .note }
-<img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/loading%20dye%20migration.png'
+<img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/loading%20dye%20migration.png?raw=true'
     alt="Loading dye bands" 
     width='48'
     align='left'>
