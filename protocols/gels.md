@@ -40,7 +40,7 @@ The fume hood alarm is very sensitive to airflow. Remember to keep the glass win
 ### STEP 2. Loading your gel
 
 {: .warning }
-> <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/electrical.png?raw=true'
+> <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/ISO-electrical.png?raw=true'
     alt="Electrical hazard" 
     width='48'
     align='left'>
