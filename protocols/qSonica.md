@@ -20,7 +20,7 @@ Sonication time varies by DNA size, genome size, tube volume, and sample buffer.
 3. Add ~1.5 L cold DI water to the qSonica bath compartment (if empty).
 4. Turn on the water cooler and allow the system to cool to 4 °C. If the bath is filled with room temperature water, it will take 15-20 minutes to cool.
 5. Adjust the water adjustment dial (“-” direction) until the rear reservoir bladder is appx. half full. The water level inside the bath should be ~2 cm above the titanium pedestal. If not, add water.
-6. Turn on the power supply (“|” icon on the top right). Ensure that the sonication bath is empty and that the cabinet door is latched closed.
+6. Turn on the power supply (“\|” icon on the top right). Ensure that the sonication bath is empty and that the cabinet door is latched closed.
 7. Run the “degas” program (appx. 10 minutes). While degassing, complete steps 8 and 9.
 8. Transfer samples to Brandtech 0.2 mL tubes. Sonication tube volume should always be identical within each batch; add molecular-grade water as required.
 9. Load samples into the blue 18-place tube holder. If you have fewer than 18 samples, fill empty spaces with blank tubes containing water (blanks are kept in the drawer). Cover with the white donut and screw on the top section. Leave the assembly on ice or at 4°C until ready for use.
