@@ -18,11 +18,10 @@ Enzymatic cleanup of PCR products can be used for any PCR product yielding only 
 
 1. Gather the following materials:
 
-- ExoSAP-IT enzyme, 50 µL aliquot (sign out from bottom shelf of sequencing lab freezer)
-- Water, molecular-grade or double-distilled (e.g., Millipore)
-- PCR tubes, labeled+
-- Ice bucket and ice
-
+    - ExoSAP-IT enzyme, 50 µL aliquot (sign out from bottom shelf of sequencing lab freezer)
+    - Water, molecular-grade or double-distilled (e.g., Millipore)
+    - PCR tubes, labeled+
+    - Ice bucket and ice
 2. Dilute 50 µL aliquot with 200 µL water (1:5 dilution). Vortex, spin, and place on ice.
 
     {: .note }
