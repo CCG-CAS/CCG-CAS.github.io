@@ -48,7 +48,7 @@ Sonication time varies by DNA size, genome size, tube volume, and sample buffer.
 
     {: .note }
     With most library types, an ideal sonication result is to have the brightest part of the smear overlap with the 300-500 bp range and to have only trace amounts of material greater than 1,000 bp. Example below.
-    <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/qsonica gel.jpg?raw=true'
+    <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/qsonica gel.png?raw=true'
       alt="qSonica gel"
       width='500'>
 20. Once general conditions are worked out for a project, continue with the next set of tubes to sonicate. When you are done for the day, turn off the chiller pump and use the “0” button on the power supply to turn it off. Consult with the lab manager about when and how to empty the water from the bath.
