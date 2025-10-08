@@ -43,11 +43,11 @@ The fume hood alarm is very sensitive to airflow. Remember to keep the glass win
     width='48'
     align='left'>
 Be aware that the gel power supplies themselves are a risk to your safety. Even at 100 volts, they can deliver a lethal shock. Always be mindful of this when operating them. Some general guidelines to follow are:
-- Never use a gel box or cover that is cracked or has connectors that appear damaged.
-- Never handle the power supply with wet hands while it is plugged in.
-- Load your gel and secure the lid to the box before plugging in your power supply.
-- Always press the stop button and UNPLUG the power supply before removing the lid.
-- If anything gives you cause for concern with the gel box or power supply (for ex, an unusual smell or sound) be sure to turn off the box and tell the lab manager. 
+    - Never use a gel box or cover that is cracked or has connectors that appear damaged.
+    - Never handle the power supply with wet hands while it is plugged in.
+    - Load your gel and secure the lid to the box before plugging in your power supply.
+    - Always press the stop button and UNPLUG the power supply before removing the lid.
+    - If anything gives you cause for concern with the gel box or power supply (for ex, an unusual smell or sound) be sure to turn off the box and tell the lab manager. 
 
 1. Transfer gel cast from the fume hood to the sink counter. Remove combs and place them in the sink.
 2. Connect a clean gel box to an UNPLUGGED power supply.
