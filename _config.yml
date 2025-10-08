@@ -13,7 +13,8 @@ aux_links:
 
 # External navigation links
 nav_external_links:
-  - title: * * * 
+  - title: <hr>
+    hide_icon: true 
   - title: Cal Academy Homepage
     url: https://www.calacademy.org/
     hide_icon: true # set to true to hide the external link icon - defaults to false
