@@ -5,6 +5,7 @@ ancestor: Protocols
 ---
 
 # Gel Electrophoresis
+
 {: .warning }
 <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-toxic.png?raw=true'
     alt="GHS Toxic" 
