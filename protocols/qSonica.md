@@ -1,7 +1,7 @@
 ---
 layout: default
 title: qSonica
-parent: Quantification
+parent: Library prep
 ancestor: Protocols
 ---
 
