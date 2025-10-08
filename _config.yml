@@ -13,7 +13,9 @@ aux_links:
 
 # External navigation links
 nav_external_links:
-  - title: <hr>
+  <hr>
+  - title: CAS Intranet
+    url: https://sites.google.com/calacademy.org/intranet/
     hide_icon: true 
   - title: Cal Academy Homepage
     url: https://www.calacademy.org/
