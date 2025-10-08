@@ -27,7 +27,7 @@ Although the NanoDrop spectrophotometer will display a concentration value, this
 
     <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/nanodrop.jpg?raw=true'
       alt="Nanodrop curve"
-      width='96'>
+      width='300'>
 
     A useful website for explanations on interpreting NanoDrop DNA/RNA curves is:
     https://tools.thermofisher.com/content/sfs/brochures/TN52646-E-0215M-NucleicAcid.pdf
