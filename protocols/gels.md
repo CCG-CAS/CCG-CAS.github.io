@@ -77,4 +77,4 @@ The CCG blue dye contains both the blue and purple bands shown below. The CCG or
 
 <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/loading%20dye%20migration.png?raw=true'
     alt="Loading dye bands" 
-    width='200'=>
+    width='200'>
