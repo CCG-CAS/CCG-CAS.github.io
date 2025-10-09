@@ -11,7 +11,7 @@ ancestor: Protocols
 Before using the qSonica instrument for the first time, consult with Athena or Grace for proper training.
 
 {: .note }
-Sonication time varies by DNA size, genome size, tube volume, and sample buffer. Before you begin, please consult with Athena for the best trial conditions to select based on other recent results. Additional user validated protocols can be found [here](www.sonicator.com/pages/publications-and-protocols-chromatin-dna-shearing). 
+Sonication time varies by DNA size, genome size, tube volume, and sample buffer. Before you begin, please consult with Athena for the best trial conditions to select based on other recent results. Additional user validated protocols can be found [here](http://www.sonicator.com/pages/publications-and-protocols-chromatin-dna-shearing). 
 
 ### Protocol
 
