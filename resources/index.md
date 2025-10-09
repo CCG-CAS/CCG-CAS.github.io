@@ -13,5 +13,7 @@ These are some helpful resources commonly used at the CCG.
 
 ### Worksheets
 
-- PCR Recipe Worksheet [Google Drive](https://docs.google.com/spreadsheets/d/1hKLxhC7d7d4423HbVtcGsacuRxX5oxFmqCplrxE0ip0/edit?usp=sharing)
-- Sample Pooling/nM Conversion Calculator [Google Drive](https://docs.google.com/spreadsheets/d/1VeYFH3QpSOnLJZie2X68Q5Kkp6U9IDx4WxGPNYPbhWA/edit?usp=sharing)
+- [Google Drive](https://docs.google.com/spreadsheets/d/1hKLxhC7d7d4423HbVtcGsacuRxX5oxFmqCplrxE0ip0/edit?usp=sharing)
+    PCR Recipe Worksheet
+- [Google Drive](https://docs.google.com/spreadsheets/d/1VeYFH3QpSOnLJZie2X68Q5Kkp6U9IDx4WxGPNYPbhWA/edit?usp=sharing)
+    Sample Pooling/nM Conversion Calculator
