@@ -2,7 +2,7 @@
 layout: default
 title: GENEWIZ Sanger sequencing protocol
 ancestor: Protocols
-parent: Extraction
+parent: Sequencing
 ---
 
 # GENEWIZ Sanger sequencing protocol
