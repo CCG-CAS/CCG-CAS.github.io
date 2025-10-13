@@ -2,7 +2,7 @@
 layout: default
 title: Preventing contamination and error
 nav_order: 2
-parent: Protocols
+parent: Policies
 has_children: true
 ---
 # Preventing contamination and error
