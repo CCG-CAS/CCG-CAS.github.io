@@ -2,7 +2,7 @@
 layout: default
 title: ExoSAP-IT PCR purification
 ancestor: Protocols
-parent: Library prep
+parent: Cleanup
 ---
 
 # ExoSAP-IT PCR purification
