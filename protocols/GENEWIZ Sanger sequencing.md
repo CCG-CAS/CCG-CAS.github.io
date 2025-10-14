@@ -11,8 +11,6 @@ parent: Sequencing
         alt="GENEWIZ logo." 
         width='500'>
 
-https://raw.githubusercontent.com/CCG-CAS/CCG-CAS.github.io/refs/heads/main/assets/genewiz.png
-
 ### Part 1. Labeling
 
 Two options for doing the outsourcing - non-Qubit based method or Qubit based method.
