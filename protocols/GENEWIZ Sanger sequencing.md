@@ -28,13 +28,13 @@ Select the California Academy of Sciences Business Reception drop box for pickup
 {: .caution }
 > Your tube/plate labels need to match your order receipt, so it may be easier to draft your order online and then do your sample preparation.
 > - Tubes must be 8-strip 0.2 mL (200 µL) PCR tubes. You can cut off empty tubes. The order form will generate Sample Numbers and assign Tube IDs. **Since they are through Athena Lam’s account, the Tube IDs will always begin with AL.**
->     <img src="https://raw.githubusercontent.com/CCG-CAS/CCG-CAS.github.io/refs/heads/main/assets/genewiz%20tube%20labels.png" 
-        alt="Image depicting properly labeled tubes for Sanger sequencing through GENEWIZ." 
-        width='500'>
+> <img src="https://raw.githubusercontent.com/CCG-CAS/CCG-CAS.github.io/refs/heads/main/assets/genewiz%20tube%20labels.png" 
+          alt="Image depicting properly labeled tubes for Sanger sequencing through GENEWIZ." 
+          width='500'>
 > - Plates: For 48 samples or more, it is recommended to use a 96-well plate for sequencing with 8-strip PCR caps. Plates do not need to be labeled, but be sure to arrange your samples vertically, so Sample 1 is in A1, Sample 2 in B1, etc.
->     <img src="https://raw.githubusercontent.com/CCG-CAS/CCG-CAS.github.io/refs/heads/main/assets/genewiz%20plate%20labels.png" 
-        alt="Image depicting a properly labeled plate for Sanger sequencing through GENEWIZ." 
-        width='500'>
+> <img src="https://raw.githubusercontent.com/CCG-CAS/CCG-CAS.github.io/refs/heads/main/assets/genewiz%20plate%20labels.png" 
+          alt="Image depicting a properly labeled plate for Sanger sequencing through GENEWIZ." 
+          width='500'>
 
 ### Part 2: Sample Preparation
 
@@ -56,9 +56,9 @@ Select the California Academy of Sciences Business Reception drop box for pickup
 3. Add 5µL of 5 µM primer to each tube (2.5µL of our standard 10 µM primers).
 4. Add calculated amount of DNA from Qubit to each well.
 5. Add Millipore water to bring volume in tube up to 15µL.
->     <img src="https://raw.githubusercontent.com/CCG-CAS/CCG-CAS.github.io/refs/heads/main/assets/genewiz%20table.png" 
-        alt="GENEWIZ table of DNA length, concentration, etc." 
-        width='500'>
+> <img src="https://raw.githubusercontent.com/CCG-CAS/CCG-CAS.github.io/refs/heads/main/assets/genewiz%20table.png" 
+          alt="GENEWIZ table of DNA length, concentration, etc." 
+          width='500'>
 
 ### Part 3: Setting up sequencing pickup and sample submission
 
