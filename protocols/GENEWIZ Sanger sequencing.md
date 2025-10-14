@@ -67,10 +67,9 @@ Select the California Academy of Sciences Business Reception drop box for pickup
 > - Assign your order an Order Name. I suggest including a date.
 > - Fill in the columns DNA Name and Primer Name according to how you prepared your samples in Part 1.
 > - Identify the desired Length (bp) range of your PCR product. 
->     <img src="https://raw.githubusercontent.com/CCG-CAS/CCG-CAS.github.io/refs/heads/main/assets/genewiz%20order%20form.png" 
+> <img src="https://raw.githubusercontent.com/CCG-CAS/CCG-CAS.github.io/refs/heads/main/assets/genewiz%20order%20form.png" 
         alt="GENEWIZ table of DNA length, concentration, etc." 
         width='500'>
-
 2. Package your samples for sequencing into a plastic bag and label the bag with your Order Name. Store in 4°C.
 3. Send this form to Grace at [gkim@calacademy.org] along with a description of where your samples are located.
 4. Samples can be submitted for same-day pickup until 5pm.
