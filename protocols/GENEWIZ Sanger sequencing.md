@@ -7,7 +7,7 @@ parent: Sequencing
 
 # GENEWIZ Sanger sequencing protocol
 
-### PART 1. LAB STEPS - SAMPLE PREPARATION
+### Part 1. Labeling
 
 Two options for doing the outsourcing - non-Qubit based method or Qubit based method.
 
@@ -27,7 +27,7 @@ Your tube/plate labels need to match your order receipt, so it may be easier to 
 > - Plates: For 48 samples or more, it is recommended to use a 96-well plate for sequencing with 8-strip PCR caps. Plates do not need to be labeled, but be sure to arrange your samples vertically, so Sample 1 is in A1, Sample 2 in B1, etc.
 
 
-### Part 1: Sample Preparation
+### Part 2: Sample Preparation
 
 #### Option 1: Non-Qubit Method:
 1. Add 5µL of 5 µM primer to each tube (2.5µL of our standard 10 µM primers)
@@ -48,7 +48,7 @@ Your tube/plate labels need to match your order receipt, so it may be easier to 
 4. Add calculated amount of DNA from Qubit to each well.
 5. Add Millipore water to bring volume in tube up to 15µL
 
-### Part 2: Setting up sequencing pickup and sample submission
+### Part 3: Setting up sequencing pickup and sample submission
 
 1. In the CCG Google Drive, find the Google sheet “Genewiz Order Form CCG”. Make a copy of this and rename the file to include the Order Name you assign.
 > - Choose the sheet TUBE Format or PLATE Format according to how you’re submitting your samples.
