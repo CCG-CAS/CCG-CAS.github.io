@@ -71,6 +71,6 @@ Select the California Academy of Sciences Business Reception drop box for pickup
         alt="GENEWIZ table of DNA length, concentration, etc." 
         width='500'>
 2. Package your samples for sequencing into a plastic bag and label the bag with your Order Name. Store in 4°C.
-3. Send this form to Grace at [gkim@calacademy.org] along with a description of where your samples are located.
+3. Send this form to Grace at [gkim@calacademy.org](gkim@calacademy.org) along with a description of where your samples are located.
 4. Samples can be submitted for same-day pickup until 5pm.
 5. Sequences are generally returned the next day. Sequence data is stored online for 2 years, but it is best practice for you to keep your raw sequence files on your personal computer or drive.
