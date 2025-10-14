@@ -55,16 +55,23 @@ Select the California Academy of Sciences Business Reception drop box for pickup
 > - 1,000-2,000 bp: ~40 ng (18S, 28S full)
 3. Add 5µL of 5 µM primer to each tube (2.5µL of our standard 10 µM primers).
 4. Add calculated amount of DNA from Qubit to each well.
-5. Add Millipore water to bring volume in tube up to 15µL
+5. Add Millipore water to bring volume in tube up to 15µL.
+>     <img src="https://raw.githubusercontent.com/CCG-CAS/CCG-CAS.github.io/refs/heads/main/assets/genewiz%20table.png" 
+        alt="GENEWIZ table of DNA length, concentration, etc." 
+        width='500'>
 
 ### Part 3: Setting up sequencing pickup and sample submission
 
-1. In the CCG Google Drive, find the Google sheet “Genewiz Order Form CCG”. Make a copy of this and rename the file to include the Order Name you assign.
+1. In the CCG Google Drive, find the Google sheet [“Genewiz Order Form CCG”](https://docs.google.com/spreadsheets/d/1KcdTIvohO3oxoOrqhzJcsfjgOu5as-Cq/edit?usp=sharing&ouid=110786856346806477866&rtpof=true&sd=true). **Make a copy and rename the file to include the Order Name you assign.**
 > - Choose the sheet TUBE Format or PLATE Format according to how you’re submitting your samples.
 > - Assign your order an Order Name. I suggest including a date.
 > - Fill in the columns DNA Name and Primer Name according to how you prepared your samples in Part 1.
 > - Identify the desired Length (bp) range of your PCR product. 
+>     <img src="https://raw.githubusercontent.com/CCG-CAS/CCG-CAS.github.io/refs/heads/main/assets/genewiz%20order%20form.png" 
+        alt="GENEWIZ table of DNA length, concentration, etc." 
+        width='500'>
+
 2. Package your samples for sequencing into a plastic bag and label the bag with your Order Name. Store in 4°C.
-3. Send this form to Grace at gkim@calacademy.org along with a description of where your samples are located.
+3. Send this form to Grace at [gkim@calacademy.org] along with a description of where your samples are located.
 4. Samples can be submitted for same-day pickup until 5pm.
 5. Sequences are generally returned the next day. Sequence data is stored online for 2 years, but it is best practice for you to keep your raw sequence files on your personal computer or drive.
