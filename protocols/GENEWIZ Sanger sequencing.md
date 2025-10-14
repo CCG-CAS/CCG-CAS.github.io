@@ -19,14 +19,14 @@ Guidelines:
 Samples must be submitted in well-labeled 0.2mL PCR Tubes or in 96-well plates.
 
 {: .greentip }
-It is cheaper per sample when sequencing 96+ reactions.
+> It is cheaper per sample when sequencing 96+ reactions.
 > - $2.95/reaction for 96+ reactions
 > - $3.45/reaction for 1-95 reactions
 
 Select the California Academy of Sciences Business Reception drop box for pickup. Samples are picked up at 7pm and results are usually available the next afternoon.
 
 {: .caution }
-Your tube/plate labels need to match your order receipt, so it may be easier to draft your order online and then do your sample preparation.
+> Your tube/plate labels need to match your order receipt, so it may be easier to draft your order online and then do your sample preparation.
 > - Tubes must be 8-strip 0.2 mL (200 µL) PCR tubes. You can cut off empty tubes. The order form will generate Sample Numbers and assign Tube IDs. **Since they are through Athena Lam’s account, the Tube IDs will always begin with AL.**
 >     <img src="https://raw.githubusercontent.com/CCG-CAS/CCG-CAS.github.io/refs/heads/main/assets/genewiz%20tube%20labels.png" 
         alt="Image depicting properly labeled tubes for Sanger sequencing through GENEWIZ." 
