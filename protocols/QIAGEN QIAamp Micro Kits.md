@@ -23,29 +23,13 @@ Due to the sensitivity of nucleic acid amplification technologies, the following
 The kit is supplied with carrier RNA, which can be added to Buffer AL if required. Carrier RNA enhances binding of DNA to the QIAamp MinElute column membrane, especially if there are very few target molecules in the sample.
 > For purification of DNA from very small amounts of sample, such as low volumes of blood (<10 µl), we recommend adding carrier RNA to Buffer AL. For samples containing larger amounts of DNA, addition of carrier RNA is optional.
 >
-> | Sample type                  | AL Buffer      | Dissolved carrier RNA |
-> |:-----------------------------|:---------------|:----------------------|
-> | Small volumes of blood       | 100 µl         | 1 µl                  |
-> | Dried blood spots            | 200 µl         | 1 µl                  |
-> | Urine                        | 300 µl         | 1 µl                  |
-> | Tissues                      | 200 µl         | 1 µl                  |
-> | Laser-microdissected tissues |  50 µl         | 1 µl                  |
-
-### Gather the following materials _(per sample):_
-
-#### Consumables
-- (1) Eppendorf tube, locking, 1.5 mL, labeled
-- (1) QIAGEN spin filter column, labeled
-- (3) QIAGEN collection tubes
-- (1) Sample storage tube (Eppendorf or screw-cap, 1.5–2 mL), labeled
-#### Reagent aliquots, labeled (including your initials):
-- Proteinase K
-- ATL buffer
-- AL buffer
-- 100% ethanol, molecular-grade
-- AW1 wash
-- AW2 wash
-- AE buffer
+> | Sample type                       | AL Buffer      | Dissolved carrier RNA |
+> |:----------------------------------|:---------------|:----------------------|
+> | Small volumes of blood (1–100 µL) | 100 µl         | 1 µl                  |
+> | Dried blood spots (3 mm diameter) | 200 µl         | 1 µl                  |
+> | Urine (<10 mL)                    | 300 µl         | 1 µl                  |
+> | Tissues (<10 mg)                  | 200 µl         | 1 µl                  |
+> | Laser-microdissected tissues      |  50 µl         | 1 µl                  |
 
 {: .warning }
 <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-oxidizing.png?raw=true'
