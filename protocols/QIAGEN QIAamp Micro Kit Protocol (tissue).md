@@ -51,6 +51,7 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 11. Carefully transfer the entire lysate (≈600 µL) from step to the QIAamp MinElute column (in a 2 mL collection tube) without wetting the rim.
     Use a P1000 with a filtered tip. When taking up the solution, avoid clumps of undigested tissue to prevent clogging the filter. Be sure not to touch or puncture the spin column filter with your pipette tip.
 12. Centrifuge 1 min at 6000 g (8000 rpm).  When you remove the tubes from the centrifuge, verify that all liquid transferred from the spin column to the collection tube. Discard flowthrough into the Hazardous Waste container. 
+    
     {: .note }
     If you see liquid still in the spin column, this means the filter in the column is clogged. Before proceeding, spin those clogged tubes again for 15 seconds at 13,000 x g (12,700 rpm). If the filter remains clogged, use a pipette to aspirate off and discard the supernatant that is in the spin column before proceeding.
 
@@ -61,11 +62,15 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 17. Add 500 µL of AW2 Buffer (blue cap) to each of the spin columns without wetting the rim.
 18. Centrifuge 3 min at 20,000 g (14,000 rpm). When removing the spin columns from the centrifuge, be careful not to let the flowthrough come into contact with the spin column. If this happens, spin for 15 sec at the same speed to dry the column again. Discard flowthrough.
 19. Transfer the spin columns to labeled, 2.0 mL screw-cap tubes.
+    
     {: .caution }
     It is very important at this step that you transfer the correct spin column to the correct labeled 2.0 mL storage tube! Be sure tubes are labeled with your extraction ID and extraction date.
+    
 20. Add 20–100 µL of AE Buffer (yellow tube) or molecular-grade water to the spin column membrane, being careful not to touch or puncture the membrane with the pipette tip.
+    
     {: .note }
     The volume of eluate may be up to 5 µL less than the volume of the solution applied to the column.
+    
 21. Incubate 3 minutes at room temperature (or 55 °C) to increase DNA yield.
 22. Centrifuge 1 min at 20,000 g (14,000 rpm).
 23. Discard your spin columns. Cap your tubes (with labels) and proceed to quantification.
