@@ -46,6 +46,7 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 4. Incubate at 56°C 4–6 hours, overnight, or until the sample is completely lysed. 
 5. Remove samples from incubator and spin down to remove condensation from tube caps.
     
+    {: .note }
     Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. If at any point your gloves become dirty, change them.  Be very careful not to allow any cross-contamination of the samples.
 
 6. Add 200 µL AL Buffer (green tube) to each tube.
