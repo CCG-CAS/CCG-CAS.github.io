@@ -37,20 +37,27 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 
 ### Protocol
 1. Transfer a single very small (<10 mg) tissue sample to a 1.5 mL  tube.
-    Cut tissue on either a glass petri dish or a piece of parafilm. Be sure to use clean forceps and a clean scalpel/razor blade for each sample. You may reuse your forceps if utilizing the “Germinator”, but please return forceps to the dirty container when finished. QIAGEN recommends preparing tissues on a metal plate on dry ice, if available.
+
+    Cut tissue on either a glass petri dish or a piece of parafilm. Be sure to use clean forceps and a clean scalpel/razor blade for each sample. You may reuse your forceps if utilizing the “Germinator”, but please return forceps to the dirty container when finished. QIAGEN recommends preparing tissues on a cold surface, such as a metal plate placed on dry ice.
+
 2. Add 180 µL ATL Buffer (large blue tube) to sample tube.
 3. Add 20 µL Proteinase K to sample tube. Vortex and spin down.
 4. Incubate at 56°C 4–6 hours, overnight, or until the sample is completely lysed. 
 5. Remove samples from incubator and spin down to remove condensation from tube caps.
+    
     Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. If at any point your gloves become dirty, change them.  Be very careful not to allow any cross-contamination of the samples.
+
 6. Add 200 µL AL Buffer (green tube) to each tube.
+
     Use filtered tips here as the soapy consistency of this buffer can otherwise cause the liquid to travel up the pipette shaft and into the pipette.
 7. Add 1 µg dissolved carrier RNA to each sample. Vortex thoroughly and spin down.
 8. Add 200 µL 100% EtOH to each tube. Use the same precautions as in step 7, including the use of filtered tips.
 9. Ensure your tubes are locked closed. Vortex thoroughly and spin down.
 10. Incubate for 5 min at room temperature. 
 11. Carefully transfer the entire lysate (≈600 µL) from step to the QIAamp MinElute column (in a 2 mL collection tube) without wetting the rim.
+    
     Use a P1000 with a filtered tip. When taking up the solution, avoid clumps of undigested tissue to prevent clogging the filter. Be sure not to touch or puncture the spin column filter with your pipette tip.
+    
 12. Centrifuge 1 min at 6000 g (8000 rpm).  When you remove the tubes from the centrifuge, verify that all liquid transferred from the spin column to the collection tube. Discard flowthrough into the Hazardous Waste container. 
     
     {: .note }
@@ -72,7 +79,7 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
     {: .note }
     The volume of eluate may be up to 5 µL less than the volume of the solution applied to the column.
     
-21. Incubate 3 minutes at room temperature (or 55 °C) to increase DNA yield.
+21. Incubate 3 minutes at room temperature to increase DNA yield.
 22. Centrifuge 1 min at 20,000 g (14,000 rpm).
 23. Discard your spin columns. Cap your tubes (with labels) and proceed to quantification.
 
