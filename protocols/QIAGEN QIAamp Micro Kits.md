@@ -3,6 +3,7 @@ layout: default
 title: QIAGEN QIAamp Micro Kit Protocols
 ancestor: Protocols
 parent: Extraction
+has_children: true
 ---
 
 # QIAGEN QIAamp Micro Kit Protocols
