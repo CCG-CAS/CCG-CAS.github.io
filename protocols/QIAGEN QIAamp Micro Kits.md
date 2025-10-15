@@ -11,7 +11,7 @@ Adapted from QIAGEN [manufacturer protocol](https://www.qiagen.com/ch/~/media/4D
 The following notes apply to all QIAamp Micro protocols.
 
 {: .note }
-Due to the sensitivity of nucleic acid amplification technologies, the following precautions are necessary when handling QIAamp MinElute columns, to avoid cross-contamination between sample preparations:
+> Due to the sensitivity of nucleic acid amplification technologies, the following precautions are necessary when handling QIAamp MinElute columns, to avoid cross-contamination between sample preparations:
 > - Carefully apply the sample or solution to the QIAamp MinElute column. Pipet the sample into the QIAamp MinElute column without wetting the rim of the column.
 > - Always change pipet tips between liquid transfers. We recommend the use of aerosol-barrier pipet tips.
 > - Avoid touching the QIAamp MinElute column membrane with the pipet tip.
@@ -20,7 +20,7 @@ Due to the sensitivity of nucleic acid amplification technologies, the following
 > - Wear gloves throughout the entire procedure. In case of contact between gloves and sample, change gloves immediately.
 
 {: .note }
-The kit is supplied with carrier RNA, which can be added to Buffer AL if required. Carrier RNA enhances binding of DNA to the QIAamp MinElute column membrane, especially if there are very few target molecules in the sample.
+> The kit is supplied with carrier RNA, which can be added to Buffer AL if required. Carrier RNA enhances binding of DNA to the QIAamp MinElute column membrane, especially if there are very few target molecules in the sample.
 > For purification of DNA from very small amounts of sample, such as low volumes of blood (<10 µl), we recommend adding carrier RNA to Buffer AL. For samples containing larger amounts of DNA, addition of carrier RNA is optional.
 >
 > | Sample type                       | AL Buffer      | Dissolved carrier RNA |
