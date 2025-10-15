@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QIAGEN QIAamp Micro Kit Protocol: Tissue
+title: "QIAGEN QIAamp Micro Kit Protocol: Tissue"
 ancestor: Protocols
 parent: QIAGEN QIAamp Micro Kit Protocols
 ---
