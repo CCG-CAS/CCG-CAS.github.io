@@ -30,7 +30,7 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 
 1. Cut up tissue into very small (~25 mg) pieces and add to the tube.
     Cut tissue on either a glass petri dish or a piece of parafilm. Be sure to use clean forceps and a clean scalpel/razor blade for each sample. You may reuse your forceps if utilizing the “Germinator”, but please return forceps to the dirty container when finished.
-2. Add 180 µL of ATL Buffer (large blue tube) to each 1.5 mL tube.
+2. Add 180 µL of ATL Buffer <code style="color : cyan">(large blue tube)</code> to each 1.5 mL tube.
     The ATL Buffer may precipitate at room temperature. Incubate at 55°C for a few minutes and the precipitate will re-dissolve.
 3. Add 20 µL of proteinase K (small blue tube) to each tube.
 4. Vortex tubes and incubate at 55°C 4 hours–overnight. Use a rocking platform or thermal mixer, if available.
