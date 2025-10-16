@@ -30,9 +30,9 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 
 1. Cut up tissue into very small (~25 mg) pieces and add to the tube.
     Cut tissue on either a glass petri dish or a piece of parafilm. Be sure to use clean forceps and a clean scalpel/razor blade for each sample. You may reuse your forceps if utilizing the “Germinator”, but please return forceps to the dirty container when finished.
-2. Add 180 µL of ATL Buffer <code style="color : aqua">(large blue tube)</code> to each 1.5 mL tube.
+2. Add 180 µL of ATL Buffer <code style="color : blue">(large blue tube)</code> to each 1.5 mL tube.
     The ATL Buffer may precipitate at room temperature. Incubate at 55°C for a few minutes and the precipitate will re-dissolve.
-3. Add 20 µL of proteinase K (small blue tube) to each tube.
+3. Add 20 µL of proteinase K <code style="color : blue">(small blue tube)</code> to each tube.
 4. Vortex tubes and incubate at 55°C 4 hours–overnight. Use a rocking platform or thermal mixer, if available.
 5. Remove digested samples from the incubator and spin down. 
     Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. If at any point your gloves become dirty, change them.  Be very careful not to allow any cross-contamination of the samples.
@@ -46,10 +46,10 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 12. Add 500 µL AW1 Buffer **(white cap)** to spin columns.
 13. Centrifuge spin columns 1 min at 6,000 g (8,000 rpm). Discard flowthrough.
 14. Transfer the spin columns to new 2 mL collection tubes.
-15. Add 500 µL of AW2 Buffer **(blue cap)** to each of the spin columns.
+15. Add 500 µL of AW2 Buffer <code style="color : blue">(**blue cap**)</code> to each of the spin columns.
 16. Centrifuge the spin columns for 3 min at 20,000 g (14,000 rpm). When removing the spin columns from the centrifuge, be careful not to let the flowthrough come into contact with the spin column. If this happens, spin for 15 sec at the same speed to dry the column again. Discard flowthrough.
 17. Transfer the spin columns to labeled, 2.0 mL screw-cap tubes.It is very important at this step that you transfer the correct spin column to the correct labeled 2.0 mL storage tube! Be sure tubes are labeled with your extraction ID and extraction date.
-18. Add 100 µL of AE Buffer **(yellow tube)** to each of the spin columns.
+18. Add 100 µL of AE Buffer <code style="color : olive">(**yellow tube**)</code> to each of the spin columns.
 19. Incubate 3 minutes at 55°C to increase DNA yield.
 20. Centrifuge 1 min at 6,000 g (8,000 rpm).
 21. Discard your spin columns. Cap your tubes (with labels) and proceed to “Checking extracted DNA Quantity Using NanoDrop 2000C” (pg. 19).
