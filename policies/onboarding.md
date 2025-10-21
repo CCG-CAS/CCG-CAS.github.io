@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Onboarding Discussion Guide
-nav_order: 1
-parent: Lab Policy
+nav_order: 5
+parent: Policies
 has_children: false
 ---
 # CCG Onboarding Discussion Guide for New Projects
