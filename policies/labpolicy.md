@@ -3,7 +3,7 @@ layout: default
 title: CCG Lab Policy
 nav_order: 1
 parent: Policies
-has_children: false
+has_children: true
 ---
 # Center for Comparative Genomics Lab Policy
 
