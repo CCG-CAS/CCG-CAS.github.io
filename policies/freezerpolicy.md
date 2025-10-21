@@ -2,8 +2,8 @@
 layout: default
 title: CCG Freezer Storage Policy
 nav_order: 3
-parents: Policies
-has_children: true
+parent: Policies
+has_children: false
 
 # CCG Freezer Storage Policy
 
