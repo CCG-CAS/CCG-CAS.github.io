@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Preventing contamination and error
-nav_order: 2
+nav_order: 4
 parent: Policies
 has_children: true
 ---
