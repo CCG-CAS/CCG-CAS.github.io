@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Health & Safety Information
-nav_order: 1
+nav_order: 3
 parent: Policies
 has_children: false
 ---
