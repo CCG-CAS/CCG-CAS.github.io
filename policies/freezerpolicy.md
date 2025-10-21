@@ -4,7 +4,7 @@ title: CCG Freezer Storage Policy
 nav_order: 3
 parent: Policies
 has_children: false
-
+---
 # CCG Freezer Storage Policy
 
 {: .note} 
