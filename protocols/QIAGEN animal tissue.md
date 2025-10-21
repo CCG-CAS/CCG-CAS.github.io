@@ -47,7 +47,7 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 
 10. **Centrifuge spin columns 1 min at 6,000 g** (8,000 rpm). 
 
-When you remove the tubes from the centrifuge, verify that all liquid transferred from the spin column to the collection tube. Discard flowthrough into the Hazardous Waste container. If you see liquid still in the spin column, this means the filter in the column is clogged. Before proceeding, spin those clogged tubes again for 15 seconds at 13,000 x g (12,700 rpm). If the filter remains clogged, use a pipette to aspirate off and discard the supernatant that is in the spin column before proceeding.
+    When you remove the tubes from the centrifuge, verify that all liquid transferred from the spin column to the collection tube. Discard flowthrough into the Hazardous Waste container. If you see liquid still in the spin column, this means the filter in the column is clogged. Before proceeding, spin those clogged tubes again for 15 seconds at 13,000 x g (12,700 rpm). If the filter remains clogged, use a pipette to aspirate off and discard the supernatant that is in the spin column before proceeding.
 
 11. Transfer spin columns to new 2 mL collection tubes.
 12. **Add 500 µL AW1 Buffer (white cap)** to spin columns.
@@ -56,7 +56,7 @@ When you remove the tubes from the centrifuge, verify that all liquid transferre
 15. **Add 500 µL of AW2 Buffer** <code style="color : blue">(blue cap)</code> to each of the spin columns.
 16. **Centrifuge spin columns 3 min at 20,000 g** (14,000 rpm). 
 
-When removing the spin columns from the centrifuge, be careful not to let the flowthrough come into contact with the spin column. If this happens, spin for 15 sec at the same speed to dry the column again. Discard flowthrough.
+    When removing the spin columns from the centrifuge, be careful not to let the flowthrough come into contact with the spin column. If this happens, spin for 15 sec at the same speed to dry the column again. Discard flowthrough.
 
 17. Transfer the spin columns to labeled, 2.0 mL screw-cap tubes. 
 
