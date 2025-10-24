@@ -26,7 +26,7 @@ Sonication time varies by DNA size, genome size, tube volume, and sample buffer.
 9. Load samples into the blue 18-place tube holder. If you have fewer than 18 samples, fill empty spaces with blank tubes containing water (blanks are kept in the drawer). Cover with the white donut and screw on the top section. Leave the assembly on ice or at 4°C until ready for use.
 
     {: .note }
-    You can use the orientation of the tube hinges to make it easy to distinguish samples from blanks when tube holder is assembled and in the machine. In the example below, blanks are loaded with hinges facing inward (left), whereas samples are loaded with hinges facing outward (center) before adding the "donut" (right). 
+    You can use the orientation of the tube hinges to make it easy to distinguish samples from blanks when tube holder is assembled and in the machine. In the example below, blanks are loaded with hinges facing inward (far left), whereas samples are loaded with hinges facing outward (center left) before adding the "donut" (center right) and top section (far right). 
     <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/qsonica rosette assy.png?raw=true'
         alt="qSonica rosette assembly"
         width='600'>
