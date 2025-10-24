@@ -24,6 +24,11 @@ Sonication time varies by DNA size, genome size, tube volume, and sample buffer.
 7. Run the “degas” program (appx. 10 minutes). While degassing, complete steps 8 and 9.
 8. Transfer samples to Brandtech 0.2 mL tubes. Sonication tube volume should always be identical within each batch; add molecular-grade water as required.
 9. Load samples into the blue 18-place tube holder. If you have fewer than 18 samples, fill empty spaces with blank tubes containing water (blanks are kept in the drawer). Cover with the white donut and screw on the top section. Leave the assembly on ice or at 4°C until ready for use.
+    {: .note }
+    You can use the orientation of the tube hinges to make it easy to distinguish samples from blanks when tube holder is assembled and in the machine. In the example below, blanks are loaded with hinges facing inward (left), whereas samples are loaded with hinges facing outward (center) before adding the "donut" (right). 
+    <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/qsonica rosette assy.png?raw=true'
+        alt="qSonica rosette assembly"
+        width='600'>
 10. After degassing, use the controls on the power supply to set the sonication conditions.
     Example: Timer = 2:30 (total sonication on time); Pulse = 15s ON / 15s OFF; Amplitude = 40%.
 
