@@ -35,7 +35,8 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
     The ATL Buffer may precipitate at room temperature. Incubate at 55°C for a few minutes and the precipitate will re-dissolve.
 3. **Add 20 µL proteinase K** <code style="color : blue">(small blue tube)</code> to each locking tube.
 
-{: .note } When extracting insect tissues, we recommend increasing proteinase volume to 60 µL per sample.
+{: .note } 
+When extracting insect tissues, we recommend increasing proteinase volume to 60 µL per sample.
 
 4. Vortex tubes and incubate at 55°C 4 hours–overnight. Use a rocking platform or thermal mixer, if available.
 5. **Remove digested samples from the incubator and spin down.**
@@ -46,7 +47,8 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 7. **Add 200 µL 100% EtOH** to each tube. Use the same precautions as in step 7, including the use of filtered tips.
 8. Ensure your tubes are locked closed. **Vortex thoroughly; spin down.**
 
-{: .note} A white precipitate may form on addition of Buffer AL and ethanol. This precipitate does not interfere with the DNeasy procedure.
+{: .note} 
+A white precipitate may form on addition of Buffer AL and ethanol. This precipitate does not interfere with the DNeasy procedure.
 
 9. Pipette the mixture including any preciptate (≈600 µL) to DNeasy Mini Spin Columns with collection tubes. 
 
@@ -71,7 +73,8 @@ It is very important at this step that you transfer the correct spin column to t
 
 18. **Add 50 µL AE Buffer** <code style="color : olive">(yellow tube)</code> to each of the spin columns.
 
-{: .note} 30 µL is the minimum elution volume required to saturate the filter. This lower volume may be advantageous if you expect your DNA yield to be very low.
+{: .note} 
+30 µL is the minimum elution volume required to saturate the filter. This lower volume may be advantageous if you expect your DNA yield to be very low.
 If you expect DNA yields to be high, you can elute in a larger volume of 100-200 µL. 
 
 19. **Incubate 3 min at 55 °C** to increase DNA yield.
