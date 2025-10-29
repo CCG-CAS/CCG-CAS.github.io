@@ -15,7 +15,7 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 
 #### Consumables
 - (1) Eppendorf tube, locking, 1.5 mL, labeled
-- (1) QIAGEN spin filter column, labeled
+- (1) QIAGEN DNeasy Mini spin column, labeled
 - (3) QIAGEN collection tubes
 - (1) Sample storage tube (Eppendorf or screw-cap, 1.5–2 mL), labeled
 #### Reagent aliquots, labeled (including your initials):
