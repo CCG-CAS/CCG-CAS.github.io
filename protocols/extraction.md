@@ -35,6 +35,10 @@ There are many types of extractions. We have included two common filter-based me
     alt="Irritant"
     width='48'
     align='left'>
+    <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-corrosive.png?raw=true'
+    alt="GHS Corrosive" 
+    width='48'
+    align='left'>
 > Buffer AL and Buffer AW1 contain guanidine hydrochloride, which is harmful if swallowed and irritating to eyes, respiratory system and skin.  Wear appropriate clothing and gloves when handling. In the event of skin contact with Buffer AL and Buffer AW1, immediately wash the affected area with water. 
 > 
 > Guanidine hydrochloride can form highly reactive compounds when combined with bleach (sodium hypochlorite). If liquid with Buffer AL or Buffer AW1 is spilled, clean with suitable lab detergent and water. If the spilled liquid contains potentially infectious agents, clean first with lab detergent and water, and then with 1% (v/v) bleach. (DNeasy Blood & Tissue and DNeasy Plant Handbook 7/2006)
