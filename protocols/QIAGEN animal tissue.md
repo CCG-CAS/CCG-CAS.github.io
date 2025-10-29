@@ -35,8 +35,10 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
     The ATL Buffer may precipitate at room temperature. Incubate at 55°C for a few minutes and the precipitate will re-dissolve.
 3. **Add 20 µL proteinase K** <code style="color : blue">(small blue tube)</code> to each locking tube.
 
-<span>Note<span> {: .label .label-blue } When extracting insect tissues, we recommend increasing proteinase K volume to 60 µL per sample.
+{:. note}
+When extracting insect tissues, we recommend increasing proteinase K volume to 60 µL per sample.
 
+{:style="counter-reset:none"}
 4. Vortex tubes and incubate at 55°C 4 hours–overnight. Use a rocking platform or thermal mixer, if available.
 5. **Remove digested samples from the incubator and spin down.**
 
@@ -49,6 +51,7 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 {: .note} 
 A white precipitate may form on addition of Buffer AL and ethanol. This precipitate does not interfere with the DNeasy procedure.
 
+{:style="counter-reset:none"}
 9. Pipette the mixture including any preciptate (≈600 µL) to DNeasy Mini Spin Columns with collection tubes. 
 
     Use a P1000 with a filtered tip. When taking up the solution, avoid clumps of undigested tissue to prevent clogging the filter. Be sure not to touch or puncture the spin column filter with your pipette tip.
