@@ -13,7 +13,7 @@ These protocols are primarily involved with the DNA extraction step.
 ### Purpose
 To lyse open cells, to lyse open the nucleus and release the DNA, to prevent naturally occurring enzymes from degrading the DNA, to get rid of cell and nuclear debris, and to acquire only “pure” nucleic acids in aqueous form.
 
-There are many types of extractions. We have included two common filter-based methods (one for animal tissues and one for plant tissues) in the following pages. For recommendations of other methods of extraction, such as precipitation based extraction, bead based extraction, High Molecular Weight (HMW) extraction, or extraction for low-input material, please reach out to Athena or other CCG staff. 
+There are many types of extractions. We have included two common filter-based methods (QIAGEN DNeasy & QIAGEN QIAamp Micro). For recommendations of other methods of extraction, such as precipitation based extraction, bead based extraction, High Molecular Weight (HMW) extraction, or extraction for low-input material, please reach out to Athena or other CCG staff. 
 
 {: .warning }
 > <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/ISO-biohazard.png?raw=true'
@@ -43,8 +43,9 @@ There are many types of extractions. We have included two common filter-based me
 > 
 > Guanidine hydrochloride can form highly reactive compounds when combined with bleach (sodium hypochlorite). If liquid with Buffer AL or Buffer AW1 is spilled, clean with suitable lab detergent and water. If the spilled liquid contains potentially infectious agents, clean first with lab detergent and water, and then with 1% (v/v) bleach. (DNeasy Blood & Tissue and DNeasy Plant Handbook 7/2006)
 
-### EXTRACTION ROOM HAZARDOUS WASTE DISPOSAL:
+### Extraction Room Hazardous Waste Disposal
 
-The container labeled Guanidine Hydrochloride/Ethanol (EtOH) Waste includes: EtOH, AL, mixed AW1/EtOH, and mixed AW2/EtOH waste.
+The container labeled Guanidine Hydrochloride/Ethanol (EtOH) Waste includes: EtOH, AL, mixed AW1/EtOH, and mixed AW2/EtOH waste. **Reminder:** only water, soap and diluted bleach may go down the sink. Please reach out to Grace if you have any questions regarding hazardous waste disposal.
 
-CCG Google Calendar Reminder: Due to its small size, please note your plans to use the CCG’s DNA EXT Lab on the CCG Google Calendar prior to working there.
+### CCG Google Calendar Reminder
+Due to its small size, please note your plans to use the CCG’s DNA EXT Lab on the CCG Google Calendar prior to working there.
