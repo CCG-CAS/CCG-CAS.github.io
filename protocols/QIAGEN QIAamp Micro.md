@@ -5,8 +5,8 @@ ancestor: Protocols
 parent: Extraction
 ---
 
-# QIAGEN QIAamp Micro Kit Protocol: Tissue
-Adapted from QIAGEN [manufacturer protocol](https://www.qiagen.com/ch/~/media/4D8DF38311F64606847546D1A40F0985.ashx).
+# QIAGEN QIAamp Micro Kit
+Adapted from [QIAGEN QIAamp DNA Micro Handbook](https://www.qiagen.com/ch/~/media/4D8DF38311F64606847546D1A40F0985.ashx).
 
 {: .note }
 If you are extracting DNA from small samples that are stored in EtOH, it is best to dry your sample of any EtOH before carrying out the extraction. You can do this by placing open tubes in the incubator; check on them every (approximately) 5 minutes.
