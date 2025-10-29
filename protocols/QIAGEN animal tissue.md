@@ -36,9 +36,9 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 3. **Add 20 µL proteinase K** <code style="color : blue">(small blue tube)</code> to each locking tube.
 
 {: .note } 
-    When extracting insect tissues, we recommend increasing proteinase K volume to 60 µL per sample.
+When extracting insect tissues, we recommend increasing proteinase K volume to 60 µL per sample.
 
-4. Vortex tubes and incubate at 55°C 4 hours–overnight. Use a rocking platform or thermal mixer, if available.
+4. Vortex tubes and incubate at 55°C 4 hours–overnight. Use a rocking platform or thermal mixer, if available. { start=4 }
 5. **Remove digested samples from the incubator and spin down.**
 
     Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. If at any point your gloves become dirty, change them. Be very careful not to allow any cross-contamination of the samples.
@@ -48,7 +48,7 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 8. Ensure your tubes are locked closed. **Vortex thoroughly; spin down.**
 
 {: .note} 
-    A white precipitate may form on addition of Buffer AL and ethanol. This precipitate does not interfere with the DNeasy procedure.
+A white precipitate may form on addition of Buffer AL and ethanol. This precipitate does not interfere with the DNeasy procedure.
 
 9. Pipette the mixture including any preciptate (≈600 µL) to DNeasy Mini Spin Columns with collection tubes. 
 
@@ -74,7 +74,7 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 18. **Add 50 µL AE Buffer** <code style="color : olive">(yellow tube)</code> to each of the spin columns.
 
 {: .note} 
-    30 µL is the minimum elution volume required to saturate the filter. This lower volume may be advantageous if you expect your DNA yield to be very low.
+30 µL is the minimum elution volume required to saturate the filter. This lower volume may be advantageous if you expect your DNA yield to be very low.
 If you expect DNA yields to be high, you can elute in a larger volume of 100-200 µL. 
 
 19. **Incubate 3 min at 55 °C** to increase DNA yield.
