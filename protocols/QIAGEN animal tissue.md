@@ -35,7 +35,7 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
     The ATL Buffer may precipitate at room temperature. Incubate at 55°C for a few minutes and the precipitate will re-dissolve.
 3. **Add 20 µL proteinase K** <code style="color : blue">(small blue tube)</code> to each locking tube.
 
-{:. note}
+{: .note}
 When extracting insect tissues, we recommend increasing proteinase K volume to 60 µL per sample.
 
 {:style="counter-reset:none"}
@@ -79,6 +79,7 @@ A white precipitate may form on addition of Buffer AL and ethanol. This precipit
 30 µL is the minimum elution volume required to saturate the filter. This lower volume may be advantageous if you expect your DNA yield to be very low.
 If you expect DNA yields to be high, you can elute in a larger volume of 100-200 µL. 
 
+{:style="counter-reset:none"}
 19. **Incubate 3 min at 55 °C** to increase DNA yield.
 20. **Centrifuge 1 min at 6,000 g** (8,000 rpm).
 21. Discard your spin columns. Cap your tubes (with labels).
