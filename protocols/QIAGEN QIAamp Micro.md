@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "QIAGEN QIAamp Micro"
+nav_order: 2
 ancestor: Protocols
 parent: Extraction
-nav_order: 2
 ---
 
 # QIAGEN QIAamp Micro Kit
