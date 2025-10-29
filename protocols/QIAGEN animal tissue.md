@@ -79,7 +79,9 @@ If you expect DNA yields to be high, you can elute in a larger volume of 100-200
 
 19. **Incubate 3 min at 55 °C** to increase DNA yield.
 20. **Centrifuge 1 min at 6,000 g** (8,000 rpm).
-21. Discard your spin columns. Cap your tubes (with labels) and proceed to “Checking extracted DNA Quantity Using NanoDrop 2000C” (pg. 19).
+21. Discard your spin columns. Cap your tubes (with labels).
+22. Quantify your DNA concentration using the [Qubit Flurometer](https://ccg-cas.github.io/protocols/qubit.html).
+23. Analyze your DNA purity using the [Nanodrop](https://ccg-cas.github.io/protocols/nanodrop.html).
 
 {: .warning }
 <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-oxidizing.png?raw=true'
