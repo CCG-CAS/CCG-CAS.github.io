@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "QIAGEN QIAamp Micro Kit"
+title: "QIAGEN QIAamp Micro"
 ancestor: Protocols
 parent: Extraction
 ---
@@ -15,7 +15,7 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 
 #### Consumables
 - (1) Eppendorf tube, locking, 1.5 mL, labeled
-- (1) QIAGEN QIAamp MiniElute spin filter column, labeled (stored in fridge)
+- (1) QIAGEN QIAamp MiniElute spin column, labeled (stored in fridge)
 - (3) QIAGEN collection tubes
 - (1) Sample storage tube (Eppendorf or screw-cap, 1.5–2 mL), labeled
 
