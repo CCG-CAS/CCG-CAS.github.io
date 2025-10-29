@@ -42,8 +42,10 @@ When extracting insect tissues, we recommend increasing proteinase K volume to 6
 4. Vortex tubes and incubate at 55°C 4 hours–overnight. Use a rocking platform or thermal mixer, if available.
 5. **Remove digested samples from the incubator and spin down.**
 
-    Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. If at any point your gloves become dirty, change them. Be very careful not to allow any cross-contamination of the samples.
-    
+{: .caution}
+Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. If at any point your gloves become dirty, change them. Be very careful not to allow any cross-contamination of the samples.
+
+{:style="counter-reset:none"}    
 6. **Add 200 µL AL Buffer** <code style="color : green">(green tube)</code> to each tube. Use filtered tips here as the soapy consistency of this buffer can otherwise cause the liquid to travel up the pipette shaft and into the pipette.
 7. **Add 200 µL 100% EtOH** to each tube. Use the same precautions as in step 6, including the use of filtered tips.
 8. Ensure your tubes are locked closed. **Vortex thoroughly; spin down.**
@@ -67,8 +69,10 @@ A white precipitate may form on addition of Buffer AL and ethanol. This precipit
 15. **Add 500 µL of AW2 Buffer** <code style="color : blue">(blue cap)</code> to each of the spin columns.
 16. **Centrifuge spin columns 3 min at 20,000 g** (14,000 rpm). 
 
-    When removing the spin columns from the centrifuge, be careful not to let the flowthrough come into contact with the spin column. It is important to dry the membrane of the DNeasy Mini spin column, since residual ethanol may interfere with subsequent reactions. If this happens, spin for 15 sec at the same speed to dry the column again. Discard flowthrough.
+{: .caution}
+When removing the spin columns from the centrifuge, be careful not to let the flowthrough come into contact with the spin column. It is important to dry the membrane of the DNeasy Mini spin column, since residual ethanol may interfere with subsequent reactions. If this happens, spin for 15 sec at the same speed to dry the column again. Discard flowthrough.
 
+{:style="counter-reset:none"}
 17. Transfer the spin columns to labeled, 2.0 mL screw-cap tubes. 
 
     It is very important at this step that you transfer the correct spin column to the correct labeled 2.0 mL storage tube! Be sure tubes are labeled with your extraction ID and extraction date.
