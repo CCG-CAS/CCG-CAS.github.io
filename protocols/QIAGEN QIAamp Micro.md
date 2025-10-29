@@ -52,7 +52,7 @@ When extracting insect tissues, we recommend increasing proteinase K volume to 6
 9. Ensure your tubes are locked closed. **Vortex thoroughly; spin down.**
 
 {: .note} 
-A white precipitate may form on addition of Buffer AL and ethanol. This precipitate does not interfere with the DNeasy procedure.
+A white precipitate may form on addition of Buffer AL and ethanol. This precipitate does not interfere with the QIAamp Micro procedure.
 
 {:style="counter-reset:none"}
 10. Pipette the mixture including any preciptate (≈600 µL) to QIAamp MiniElute Spin Columns with collection tubes. 
@@ -70,7 +70,7 @@ A white precipitate may form on addition of Buffer AL and ethanol. This precipit
 16. **Add 500 µL of AW2 Buffer** <code style="color : blue">(blue cap)</code> to each of the spin columns.
 17. **Centrifuge spin columns 3 min at 20,000 g** (14,000 rpm). 
 
-    When removing the spin columns from the centrifuge, be careful not to let the flowthrough come into contact with the spin column. It is important to dry the membrane of the DNeasy Mini spin column, since residual ethanol may interfere with subsequent reactions. If this happens, spin for 15 sec at the same speed to dry the column again. Discard flowthrough.
+    When removing the spin columns from the centrifuge, be careful not to let the flowthrough come into contact with the spin column. It is important to dry the membrane of the QIAamp MiniElute spin column, since residual ethanol may interfere with subsequent reactions. If this happens, spin for 15 sec at the same speed to dry the column again. Discard flowthrough.
 
 18. Transfer the spin columns to labeled, 2.0 mL screw-cap tubes. 
 
