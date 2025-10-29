@@ -35,10 +35,10 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
     The ATL Buffer may precipitate at room temperature. Incubate at 55°C for a few minutes and the precipitate will re-dissolve.
 3. **Add 20 µL proteinase K** <code style="color : blue">(small blue tube)</code> to each locking tube.
 
-{: .note } 
+Note {: .label .label-blue }
 When extracting insect tissues, we recommend increasing proteinase K volume to 60 µL per sample.
 
-4. Vortex tubes and incubate at 55°C 4 hours–overnight. Use a rocking platform or thermal mixer, if available. { start=4 }
+4. Vortex tubes and incubate at 55°C 4 hours–overnight. Use a rocking platform or thermal mixer, if available.
 5. **Remove digested samples from the incubator and spin down.**
 
     Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. If at any point your gloves become dirty, change them. Be very careful not to allow any cross-contamination of the samples.
