@@ -45,7 +45,7 @@ When extracting insect tissues, we recommend increasing proteinase K volume to 6
     Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. If at any point your gloves become dirty, change them. Be very careful not to allow any cross-contamination of the samples.
     
 6. **Add 200 µL AL Buffer** <code style="color : green">(green tube)</code> to each tube. Use filtered tips here as the soapy consistency of this buffer can otherwise cause the liquid to travel up the pipette shaft and into the pipette.
-7. **Add 200 µL 100% EtOH** to each tube. Use the same precautions as in step 7, including the use of filtered tips.
+7. **Add 200 µL 100% EtOH** to each tube. Use the same precautions as in step 6, including the use of filtered tips.
 8. Ensure your tubes are locked closed. **Vortex thoroughly; spin down.**
 
 {: .note} 
@@ -87,8 +87,8 @@ If you expect DNA yields to be high, you can elute in a larger volume of 100-200
 23. Analyze your DNA purity using the [Nanodrop](https://ccg-cas.github.io/protocols/nanodrop.html).
 
 {: .warning }
-<img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-oxidizing.png?raw=true'
-    alt="GHS Oxidizing" 
+<img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-corrosive.png?raw=true'
+    alt="GHS Corrosive" 
     width='48'
     align='left'>
 <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-flammable.png?raw=true'
