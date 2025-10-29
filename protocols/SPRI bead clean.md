@@ -46,4 +46,8 @@ Lower bead:sample ratios select for longer DNA fragments. While this can be usef
 14. Transfer samples to new tubes and discard used tubes with beads. Samples can be stored at -20 °C.
 
 {: .warning }
-Properly dispose of ethanol in the designated ethanol waste containers. Ethanol is a flammable chemical and cannot be disposed of in the trash or down the sink. 
+<img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-flammable.png?raw=true'
+    alt='GHS Flammable'
+    width="48"
+    align='left'>
+    Properly dispose of ethanol in the designated ethanol waste containers. Ethanol is a flammable chemical and cannot be disposed of in the trash or down the sink. 
