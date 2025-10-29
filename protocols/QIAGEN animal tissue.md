@@ -25,7 +25,7 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 - 100% ethanol, molecular-grade
 - AW1 wash <code style="color : black">(white cap)</code>
 - AW2 wash <code style="color : blue">(blue cap)</code>
-- AE buffer <code style="color : olive">(yellow tube)</code>
+- AE buffer <code style="color : yellow-200">(yellow tube)</code>
 
 ### Protocol
 
