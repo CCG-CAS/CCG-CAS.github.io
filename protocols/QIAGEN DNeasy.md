@@ -101,4 +101,5 @@ If you expect DNA yields to be high, you can elute in a larger volume of 100-200
     align='left'>
 All guanidine hydrochloride/EtOH waste must be disposed of in its designated waste bottle. This includes all Buffer AL, EtOH, Buffer AW1, and Buffer AW2 waste.
 
-
+{: .greentip}
+When extracting many samples at once, you can use the same tip to add the wash buffers. Be very careful when doing this to not let the tip come into contact with any of the tubes. Also, be very careful to eject the buffer slowly against the back wall of the spin column to reduce splashing, and change your tip when changing buffers.
