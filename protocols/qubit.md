@@ -9,7 +9,8 @@ ancestor: Protocols
 
 The Qubit fluorometer allows for precise measurement of the concentration of double-stranded DNA in a sample. This is done by intercalating dye in between the bases in the strands. For this reason, it is widely accepted that the Qubit is more accurate than a spectrophotometer, which cannot distinguish between RNA, ssDNA, and dsDNA.
 
-<img src='https://github.com/CCG-CAS/CCG-CAS.github.io/blob/54d6e32e780f22ec66df525498805da15104f0b7/assets/Qubit%20Diagram.jpeg' alt="Qubit Fluorometer Diagram">
+<img src='https://github.com/CCG-CAS/CCG-CAS.github.io/blob/main/assets/Qubit%20Diagram.jpeg?raw=true' 
+    alt="Qubit Fluorometer Diagram">
 
 1. Gather the following materials:
     - CCG 1X dsDNA High Sensitivity Assay Kit (working solution + two standards)
