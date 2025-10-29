@@ -14,8 +14,7 @@ Exo/SAP is short for the enzymes Exonuclease I and Shrimp Alkaline Phosphatase. 
 
 <img src='https://github.com/CCG-CAS/CCG-CAS.github.io/blob/main/assets/ExoSap%20Diagram.jpeg'
     alt="ExoSAP-IT Diagram" 
-    width='600'
-    align='center'>
+    width='600'>
 
 ### Protocol
 
