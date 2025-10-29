@@ -13,7 +13,7 @@ As described in Gould et al. 2021; modified from Hykin et al. 2015 and Ruane & A
 While this protocol does not include any formalin or formaldehyde, seek appropriate training from your department or the CCG Lab Manager before working with or handling formalin-fixed tissues. Formalin/formaldehyde is a carcinogen, mutagen and toxic chemical that requires extra hazardous materials training per Cal Academy policy.
 
 ### Gather the following materials:
-- GTE Buffer
+- [GTE Buffer](https://www.fishersci.com/shop/products/gte-buffer-thermo-scientific/AAJ62597AE)
 - 100% ethanol (EtOH), molecular-grade
 - 70% ethanol (EtOH), molecular-grade
 - Nuclease-free water
