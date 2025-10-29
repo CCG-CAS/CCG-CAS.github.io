@@ -44,10 +44,12 @@ When extracting insect tissues, we recommend increasing proteinase K volume to 6
 4. Vortex tubes and incubate at 55°C 4 hours–overnight. Use a rocking platform or thermal mixer, if available.
 5. **Remove digested samples from the incubator and spin down.**
 
-    Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. If at any point your gloves become dirty, change them. Be very careful not to allow any cross-contamination of the samples.
-    
+{: .caution}
+Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. If at any point your gloves become dirty, change them. Be very careful not to allow any cross-contamination of the samples.
+
+{:style="counter-reset:none"}    
 6. **Add 200 µL AL Buffer** <code style="color : green">(green tube)</code> to each tube. Use filtered tips here as the soapy consistency of this buffer can otherwise cause the liquid to travel up the pipette shaft and into the pipette.
-7. **Add 200 µL 100% EtOH** to each tube. Use the same precautions as in step 7, including the use of filtered tips.
+7. **Add 200 µL 100% EtOH** to each tube. Use the same precautions as in step 6, including the use of filtered tips.
 8. **Add 1 µL Carrier RNA** to each tube. Aliquots are in freezer. 
 9. Ensure your tubes are locked closed. **Vortex thoroughly; spin down.**
 
@@ -64,14 +66,16 @@ A white precipitate may form on addition of Buffer AL and ethanol. This precipit
     When you remove the tubes from the centrifuge, verify that all liquid transferred from the spin column to the collection tube. Discard flowthrough into the Hazardous Waste container. If you see liquid still in the spin column, this means the filter in the column is clogged. Before proceeding, spin those clogged tubes again for 15 seconds at 13,000 x g (12,700 rpm). If the filter remains clogged, use a pipette to aspirate off and discard the supernatant that is in the spin column before proceeding.
 
 12. Transfer spin columns to new 2 mL collection tubes.
-13. 12. **Add 500 µL AW1 Buffer** <code style="color : black">(white cap)</code> to spin columns.
+13. **Add 500 µL AW1 Buffer** <code style="color : black">(white cap)</code> to spin columns.
 14. **Centrifuge spin columns 1 min at 6,000 g** (8,000 rpm). Discard flowthrough.
 15. Transfer the spin columns to new 2 mL collection tubes.
 16. **Add 500 µL of AW2 Buffer** <code style="color : blue">(blue cap)</code> to each of the spin columns.
 17. **Centrifuge spin columns 3 min at 20,000 g** (14,000 rpm). 
 
-    When removing the spin columns from the centrifuge, be careful not to let the flowthrough come into contact with the spin column. It is important to dry the membrane of the QIAamp MiniElute spin column, since residual ethanol may interfere with subsequent reactions. If this happens, spin for 15 sec at the same speed to dry the column again. Discard flowthrough.
+{: .caution}
+When removing the spin columns from the centrifuge, be careful not to let the flowthrough come into contact with the spin column. It is important to dry the membrane of the QIAamp MiniElute spin column, since residual ethanol may interfere with subsequent reactions. If this happens, spin for 15 sec at the same speed to dry the column again. Discard flowthrough.
 
+{:style="counter-reset:none"}
 18. Transfer the spin columns to labeled, 2.0 mL screw-cap tubes. 
 
     It is very important at this step that you transfer the correct spin column to the correct labeled 2.0 mL storage tube! Be sure tubes are labeled with your extraction ID and extraction date.
@@ -89,8 +93,8 @@ A white precipitate may form on addition of Buffer AL and ethanol. This precipit
 24. Analyze your DNA purity using the [Nanodrop](https://ccg-cas.github.io/protocols/nanodrop.html).
 
 {: .warning }
-<img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-oxidizing.png?raw=true'
-    alt="GHS Oxidizing" 
+<img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-corrosive.png?raw=true'
+    alt="GHS Corrosive"  
     width='48'
     align='left'>
 <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-flammable.png?raw=true'
