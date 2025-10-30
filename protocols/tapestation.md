@@ -9,7 +9,7 @@ ancestor: Protocols
 
 The TapeStation is an automated electrophoresis solution for quality control of samples of DNA and RNA. This also contains a quantification estimate for your samples as well. 
 
-**If you are new to the instrument, please ask Athena or Grace for training.**
+**If you are new to the instrument, please ask CCG Staff for training.**
 
 ### Setup
 
@@ -27,7 +27,6 @@ The TapeStation is an automated electrophoresis solution for quality control of 
     | Concentration (ng/µL) | 0.01–1              | 10–100          |
 
 3. Switch on the computer and the instrument and launch the Agilent TapeStation Controller Software.
-4. FIRST TIME USER: Create your own results file on the TapeStation laptop: Desktop–Tapestation Data–Folder “your group”.
     {: .note }
     The ScreenTape should be used within two weeks after opening the ScreenTape device foil bag.
 
@@ -44,8 +43,7 @@ The TapeStation is an automated electrophoresis solution for quality control of 
 |                    | HS D1000 ScreenTape | gDNA ScreenTape |
 |:-------------------|:--------------------|:----------------|
 | Sample buffer (µL) | 2                   | 10              |
-| DNA Ladder (µL)    | 1 (or electronic)   | 1 (required)    |
-| Sample (µL)        | 2                   | 1               |
+| Sample/Ladder (µL) | 2                   | 1               |
 
 6. Add sample buffer to each well of the strip tube.
 7. If using a ladder, add a DNA ladder to the first tube (A1).
@@ -56,7 +54,7 @@ The TapeStation is an automated electrophoresis solution for quality control of 
 12. Close the TapeStation lid.
 13. In the software, select the wells in the graphic for your ladder and samples. They will come up on the right side of the screen.
 14. In the area on the right side, name each well with your sample number/ID.
-15. Verify that the strip tube caps are removed and the tip waste bun is not full.
+15. **Verify that the strip tube caps are removed and the tip waste bun is not full.**
 16. Press ‘Start.’ The run will begin, and display an estimated run time.
 
 ### Cleanup
