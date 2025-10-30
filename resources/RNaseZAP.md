@@ -2,7 +2,7 @@
 layout: default
 title: RNaseZAP
 ancestor: Resources
-parent: Recipes
+parent: Buffer & Reagent Recipes
 ---
 # RNaseZAP Recipe
 Full details and original recipe can be found [here.](https://pipettejockey.com/2016/05/06/make-your-own-nucleasenucleic-acid-decontaminating-solution/)
