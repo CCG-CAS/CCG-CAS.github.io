@@ -18,7 +18,7 @@ Exo/SAP is short for the enzymes Exonuclease I and Shrimp Alkaline Phosphatase. 
 
 1. Gather the following materials:
 
-    - [ExoSAP-IT enzyme](https://www.thermofisher.com/order/catalog/product/78201.1.ML?ICID=search-782011ML#/78201.1.ML?ICID=search-782011ML), 50 µL aliquot (sign out from bottom shelf of sequencing lab freezer)
+    - [ExoSAP-IT enzyme](https://www.thermofisher.com/order/catalog/product/78201.1.ML?ICID=search-782011ML#/78201.1.ML?ICID=search-782011ML), 50 µL aliquot (sign out from bottom shelf of gel room freezer)
     - Water, molecular-grade or double-distilled (e.g., Millipore)
     - PCR tubes, labeled+
     - Ice bucket and ice
