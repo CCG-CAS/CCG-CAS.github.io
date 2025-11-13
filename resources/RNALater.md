@@ -41,7 +41,9 @@ Store at room temperature or keep refrigerated until used.
 Add 7.44g EDTA to 40mL Ultrapure water
 
 _The math:_
+
 (0.04L= 40mL) (0.5M)= 0.02 moles of EDTA
+
 (0.02 mol) (formula weight of EDTA= 372.24g/mol)= 7.44g
 
 Adjust pH to 8
@@ -50,6 +52,8 @@ Adjust pH to 8
 Add 5.88g Sodium citrate to 25mL Ultrapure water
 
 _The math:_
+
 (0.025L) (1M)= 0.02 moles of sodium citrate
+
 (0.02 mol) (formula weight of sodium citrate= 294.10g/mol)= 5.88g
 
