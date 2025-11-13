@@ -15,7 +15,7 @@ To learn more about loading dyes, check out this helpful [resource](https://www.
 
 ### Required Reagents:
 - Ficoll
-- Orange G (migrates at about 50bp)
+- Orange G (migrates at ~50bp)
 - diH20
 
 ### Required Materials:
