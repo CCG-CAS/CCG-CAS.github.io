@@ -15,8 +15,8 @@ To learn more about loading dyes, check out this helpful [resource](https://www.
 
 ### Required Reagents:
 - Glycerol
-- Bromophenol blue (runs at about 3,000bp)
-- Xylene cyanol (runs at about 250bp)
+- Bromophenol blue (migrates at ~3,000bp)
+- Xylene cyanol (migrates at ~250bp)
 - diH20
 
 ### Required Materials:
