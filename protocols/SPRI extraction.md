@@ -34,21 +34,20 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
     The ATL Buffer may precipitate at room temperature. Incubate at 55°C for a few minutes and the precipitate will re-dissolve.
 3. **Add 20 µL proteinase K** <code style="color : blue">(small blue tube)</code> to each locking tube.
 
-{: .note}
-When extracting insect tissues, we recommend increasing proteinase K volume to 60 µL per sample. For very small samples, the total volume of lysis buffer and proteinase K can be proportionally reduced.
+    {: .note}
+    When extracting insect tissues, we recommend increasing proteinase K volume to 60 µL per sample. For very small samples, the total volume of lysis buffer and proteinase K can be proportionally reduced.
 
-{:style="counter-reset:none"}
 4. Vortex tubes and incubate at 55°C 4 hours–overnight. Use a rocking platform or thermal mixer, if available.
 5. **Remove digested samples from the incubator and spin down.**
 
-{: .caution}
-Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. If at any point your gloves become dirty, change them. Be very careful not to allow any cross-contamination of the samples.
+    {: .caution}
+    Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. If at any point your gloves become dirty, change them. Be very careful not to allow any cross-contamination of the samples.
 
 ### Protocol (Extraction)
 6. Prepare a fresh aliquot of 80% EtOH using molecular-grade water. If using a multi-channel pipette, dispense into a plastic trough immediately prior to wash steps.
 
-{: .note}
-The volume of 80% EtOH is not critical, provided that it is sufficient to completely cover the pelletized SPRI beads. 200 µL is typical for extractions in PCR tubes, while 700 µL is typical for 1.5 mL Eppendorf tubes. When calculating the volume of ethanol wash to prepare, keep in mind that you will perform two wash steps (e.g., 2·200 = 400 µL / sample).
+    {: .note}
+    The volume of 80% EtOH is not critical, provided that it is sufficient to completely cover the pelletized SPRI beads. 200 µL is typical for extractions in PCR tubes, while 700 µL is typical for 1.5 mL Eppendorf tubes. When calculating the volume of ethanol wash to prepare, keep in mind that you will perform two wash steps (e.g., 2·200 = 400 µL / sample).
 
 7. Bring beads to room temp. and vortex thoroughly. Re-vortex periodically if settling is present.
 8. Spin down samples and 2X the volume of bead solution relative to the volume of lysis buffer (e.g., 400 µL SPRI beads for 200 µL lysis buffer). Mix thoroughly by pipetting, or vortex and briefly spin.
@@ -58,8 +57,8 @@ The volume of 80% EtOH is not critical, provided that it is sufficient to comple
 12. Remove and discard supernatant, taking care not to disturb the beads and bound DNA.
 13. Add sufficient 80% ethanol wash to completely cover the pelletized beads. Incubate 30 sec. at room temperature. Remove and discard wash.
 
-{: .warning }
-<img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-flammable.png?raw=true'
+    {: .warning }
+    <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-flammable.png?raw=true'
     alt='GHS Flammable'
     width="48"
     align='left'>
