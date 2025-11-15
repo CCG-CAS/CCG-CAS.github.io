@@ -6,7 +6,7 @@ parent: Buffer & Reagent Recipes
 ---
 ## Proteinase K Recipe
 
-Proteinase K or ProK is a common, essential addative for DNA Extraction Protocols. Here we provide a recipe for generating a 20mg/mL ProK solution in 50mM Tris-HCl (pH 8.0), 3mM CaCl2.
+Proteinase K or ProK is a common, essential reagent for DNA Extraction Protocols. Here we provide a recipe for generating a 20mg/mL ProK solution in 50mM Tris-HCl (pH 8.0), 3mM CaCl2.
 
 ### Reagents Required:
 - Powdered Proteinase K ([GoldBio Cat #P-480-1](https://www.goldbio.com/products/proteinase-k?srsltid=AfmBOoqa9Qf2dnVJxyWWGg2WX6qbBBbpxLQAL05jA45r1kFJqShfoxcI))
