@@ -8,6 +8,8 @@ parent: Buffer & Reagent Recipes
 
 Overview: This buffer mimics the RNAlater that you can buy from Ambion. Both DNA and RNA are stable at room temperature in this buffer.
 
+This recipe was first published by in the Molecular Ecology Resources paper "Preservation of RNA and DNA from mammal samples under field conditions" ([Camacho-Sanchez, M., P. Burraco, I. Gomez-Mestre, and J. A. Leonard. 2013](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.12108)).
+
 ### Materials:
 - EDTA disodium, dehydrate (Thermo Fisher Cat# 2793-500 or BP120-1)
 - Sodium citrate trisodium salt, dihydrate (Fisher Cat# S279-500)
